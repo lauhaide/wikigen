@@ -2,6 +2,9 @@
 
 Data used and implementation of the models described in [Bootstrapping Generators from Noisy Data](https://arxiv.org/abs/1804.06385). 
 
+
+For any inquery contact me at *lperez (at) ed.ac.uk*
+
 ## Dataset
 
 Our dataset is compiled from the WikiBio dataset [(Lebret et al., 2016)](https://arxiv.org/abs/1603.07771). We use the entire abstracts and filter cases with too short/long abstracts and input property sets. The input property set is created from DBPedia. 
