@@ -3,7 +3,7 @@
 Data used and implementation of the models described in [Bootstrapping Generators from Noisy Data](https://arxiv.org/abs/1804.06385). 
 
 
-For any inquery contact me at *lperez (at) ed.ac.uk*
+For any inquiry contact me at *lperez (at) ed.ac.uk*
 
 ## Dataset
 
