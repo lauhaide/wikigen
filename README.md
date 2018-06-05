@@ -5,7 +5,9 @@ Data used and implementation of the models described in [Bootstrapping Generator
 ## Dataset
 
 Our dataset is compiled from the WikiBio dataset [(Lebret et al., 2016)](https://arxiv.org/abs/1603.07771). We use the entire abstracts and filter cases with too short/long abstracts and input property sets. The input property set is created from DBPedia. 
-The extended data-set and the set of Articles' URLs that where included in our training, validation and test partitions can be downloaded from [here](). The pre-processed dataset files to train and evaluate the models can be downloaded from [here]().
+
+The extended data-set can be downloaded from [here](). 
+The pre-processed dataset files to train and evaluate the models can be downloaded from [here]().
 
 ## Models
 The base code for the encoder-decoder generation models is from [(Wiseman et al, 2017)](https://arxiv.org/abs/1707.08052), based in turn on Torch7 OpenNMT. The base code for the Reinforcement Learning (RL) model is from [(Zhang and Lapata)](http://aclweb.org/anthology/D/D17/D17-1062.pdf).
