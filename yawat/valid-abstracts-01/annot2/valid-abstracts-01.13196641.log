@@ -1,0 +1,332 @@
+[1493117364327] NEW SESSION
+[1493117407866] left click on word 0.0.13 ('italian')
+[1493117407866] new alignment group
+[1493117407867] add 0.0.13 to 0[:]
+[1493117408465] left click on word 0.0.14 ('association')
+[1493117408466] add 0.0.14 to 0[13:]
+[1493117409241] left click on word 0.0.15 ('football')
+[1493117409242] add 0.0.15 to 0[13,14:]
+[1493117410241] left click on word 0.0.16 ('midfielder')
+[1493117410242] add 0.0.16 to 0[13,14,15:]
+[1493117411217] left click on word 0.0.17 ('and')
+[1493117411218] add 0.0.17 to 0[13,14,15,16:]
+[1493117411826] left click on word 0.0.18 ('manager')
+[1493117411826] add 0.0.18 to 0[13,14,15,16,17:]
+[1493117412785] left click on word 0.1.12 ('short_description(italian_footballer_and_manager)')
+[1493117412785] add 0.1.12 to 0[13,14,15,16,17,18:]
+[1493117416210] right click on word 0.1.12 ('short_description(italian_footballer_and_manager)')
+[1493117416729] right click on word 0.1.12 ('short_description(italian_footballer_and_manager)')
+[1493117418298] label 0[13,14,15,16,17,18:12] as sure
+[1493117423922] left click on word 0.0.20 ('genoa')
+[1493117423923] new alignment group
+[1493117423923] add 0.0.20 to 0[:]
+[1493117426754] left click on word 0.1.13 ('birth_place(genoa[location])')
+[1493117426754] add 0.1.13 to 0[20:]
+[1493117427298] right click on word 0.1.13 ('birth_place(genoa[location])')
+[1493117427834] right click on word 0.1.13 ('birth_place(genoa[location])')
+[1493117429010] label 0[20:13] as sure
+[1493117444034] left click on word 0.0.7 ('28')
+[1493117444034] new alignment group
+[1493117444034] add 0.0.7 to 0[:]
+[1493117444873] left click on word 0.0.8 ('december')
+[1493117444873] add 0.0.8 to 0[7:]
+[1493117445537] left click on word 0.0.9 ('1949')
+[1493117445538] add 0.0.9 to 0[7,8:]
+[1493117447233] left click on word 0.1.15 ('death_date(1949-12-28)')
+[1493117447234] add 0.1.15 to 0[7,8,9:]
+[1493117447769] right click on word 0.1.15 ('death_date(1949-12-28)')
+[1493117448274] right click on word 0.1.15 ('death_date(1949-12-28)')
+[1493117450698] label 0[7,8,9:15] as sure
+[1493117465370] left click on word 0.0.3 ('30')
+[1493117465370] new alignment group
+[1493117465370] add 0.0.3 to 0[:]
+[1493117466026] left click on word 0.0.4 ('april')
+[1493117466026] add 0.0.4 to 0[3:]
+[1493117467041] left click on word 0.0.5 ('1899')
+[1493117467042] add 0.0.5 to 0[3,4:]
+[1493117469210] left click on word 0.1.18 ('birth_date(1899-04-30)')
+[1493117469211] add 0.1.18 to 0[3,4,5:]
+[1493117469802] right click on word 0.1.18 ('birth_date(1899-04-30)')
+[1493117470242] right click on word 0.1.18 ('birth_date(1899-04-30)')
+[1493117471914] label 0[3,4,5:18] as sure
+[1493117473210] left click on word 0.0.0 ('ottavio')
+[1493117473210] new alignment group
+[1493117473210] add 0.0.0 to 0[:]
+[1493117474065] left click on word 0.0.1 ('barbieri')
+[1493117474066] add 0.0.1 to 0[0:]
+[1493117475858] left click on word 0.1.17 ('fullname(ottavio_barbieri)')
+[1493117475858] add 0.1.17 to 0[0,1:]
+[1493117476346] right click on word 0.1.17 ('fullname(ottavio_barbieri)')
+[1493117476802] right click on word 0.1.17 ('fullname(ottavio_barbieri)')
+[1493117478042] label 0[0,1:17] as sure
+[1493117484914] left click on word 0.1.17 ('fullname(ottavio_barbieri)')
+[1493117484914] edit 0[0,1:17]
+[1493117485730] left click on word 0.1.20 ('name(barbieri,_ottavio)')
+[1493117485730] add 0.1.20 to 0[0,1:17]
+[1493117489626] left click on word 0.1.21 ('name(ottavio_barbieri)')
+[1493117489626] add 0.1.21 to 0[0,1:17,20]
+[1493117558762] cancel edit
+[1493117561746] left click on word 3.0.2 ('barbieri')
+[1493117561746] new alignment group
+[1493117561746] add 3.0.2 to 3[:]
+[1493117563578] left click on word 3.1.17 ('fullname(ottavio_barbieri)')
+[1493117563578] add 3.1.17 to 3[2:]
+[1493117564082] right click on word 3.1.17 ('fullname(ottavio_barbieri)')
+[1493117564538] right click on word 3.1.17 ('fullname(ottavio_barbieri)')
+[1493117566586] label 3[2:17] as possible
+[1493117567738] left click on word 3.1.20 ('name(barbieri,_ottavio)')
+[1493117567738] new alignment group
+[1493117567738] add 3.1.20 to 3[:]
+[1493117568202] right click on word 3.1.20 ('name(barbieri,_ottavio)')
+[1493117568674] right click on word 3.1.20 ('name(barbieri,_ottavio)')
+[1493117571650] left click on word 3.0.2 ('barbieri')
+[1493117571650] edit 3[2:17]
+[1493117572842] left click on word 3.1.20 ('name(barbieri,_ottavio)')
+[1493117572843] del 3.1.20 from 3[:20]
+[1493117572843] add 3.1.20 to 3[2:17]
+[1493117573331] right click on word 3.1.20 ('name(barbieri,_ottavio)')
+[1493117574074] right click on word 3.1.20 ('name(barbieri,_ottavio)')
+[1493117575658] label 3[2:17,20] as possible
+[1493117583778] left click on word 3.0.3 ('worked')
+[1493117583778] new alignment group
+[1493117583778] add 3.0.3 to 3[:]
+[1493117584386] left click on word 3.0.4 ('with')
+[1493117584386] add 3.0.4 to 3[3:]
+[1493117585554] left click on word 3.0.5 ('atalanta')
+[1493117585554] add 3.0.5 to 3[3,4:]
+[1493117587514] left click on word 3.1.22 ('managerclubs(atalanta_b.c.[soccer_club])')
+[1493117587514] add 3.1.22 to 3[3,4,5:]
+[1493117588034] right click on word 3.1.22 ('managerclubs(atalanta_b.c.[soccer_club])')
+[1493117588474] right click on word 3.1.22 ('managerclubs(atalanta_b.c.[soccer_club])')
+[1493117589690] label 3[3,4,5:22] as sure
+[1493117626298] left click on word 3.0.9 ('since')
+[1493117626299] new alignment group
+[1493117626299] add 3.0.9 to 3[:]
+[1493117627027] left click on word 3.0.10 ('1936')
+[1493117627027] add 3.0.10 to 3[9:]
+[1493117628290] left click on word 3.1.9 ('manageryears(1936)')
+[1493117628291] add 3.1.9 to 3[9,10:]
+[1493117629187] right click on word 3.1.9 ('manageryears(1936)')
+[1493117629619] right click on word 3.1.9 ('manageryears(1936)')
+[1493117631555] label 3[9,10:9] as sure
+[1493117633907] left click on word 3.0.11 ('to')
+[1493117633907] new alignment group
+[1493117633907] add 3.0.11 to 3[:]
+[1493117635011] left click on word 3.0.12 ('1938')
+[1493117635011] add 3.0.12 to 3[11:]
+[1493117637419] left click on word 3.1.7 ('manageryears(1939)')
+[1493117637419] add 3.1.7 to 3[11,12:]
+[1493117637883] right click on word 3.1.7 ('manageryears(1939)')
+[1493117638307] right click on word 3.1.7 ('manageryears(1939)')
+[1493117640131] label 3[11,12:7] as sure
+[1493117644267] right click on word 3.0.12 ('1938')
+[1493117647603] del 3.0.12 from 3[11,12:7]
+[1493117649667] right click on word 3.1.7 ('manageryears(1939)')
+[1493117651483] del 3.1.7 from 3[11:7]
+[1493117652851] right click on word 3.0.11 ('to')
+[1493117653899] del 3.0.11 from 3[11:]
+[1493117662051] left click on word 3.0.15 ('coming')
+[1493117662051] new alignment group
+[1493117662051] add 3.0.15 to 3[:]
+[1493117665019] left click on word 3.0.16 ('back')
+[1493117665019] add 3.0.16 to 3[15:]
+[1493117665947] left click on word 3.0.19 ('in')
+[1493117665947] add 3.0.19 to 3[15,16:]
+[1493117666563] left click on word 3.0.20 ('1939')
+[1493117666563] add 3.0.20 to 3[15,16,19:]
+[1493117668723] left click on word 3.1.7 ('manageryears(1939)')
+[1493117668723] add 3.1.7 to 3[15,16,19,20:]
+[1493117669395] right click on word 3.1.7 ('manageryears(1939)')
+[1493117669923] right click on word 3.1.7 ('manageryears(1939)')
+[1493117670988] label 3[15,16,19,20:7] as possible
+[1493117690899] left click on word 4.0.5 ('barbieri')
+[1493117690899] new alignment group
+[1493117690899] add 4.0.5 to 4[:]
+[1493117694011] left click on word 4.1.17 ('fullname(ottavio_barbieri)')
+[1493117694011] add 4.1.17 to 4[5:]
+[1493117694507] right click on word 4.1.17 ('fullname(ottavio_barbieri)')
+[1493117694891] right click on word 4.1.17 ('fullname(ottavio_barbieri)')
+[1493117697315] label 4[5:17] as possible
+[1493117699131] left click on word 4.0.5 ('barbieri')
+[1493117699131] edit 4[5:17]
+[1493117700899] left click on word 4.1.20 ('name(barbieri,_ottavio)')
+[1493117700899] add 4.1.20 to 4[5:17]
+[1493117701411] right click on word 4.1.20 ('name(barbieri,_ottavio)')
+[1493117701851] right click on word 4.1.20 ('name(barbieri,_ottavio)')
+[1493117703275] label 4[5:17,20] as possible
+[1493117708348] right click on word 4.1.21 ('name(ottavio_barbieri)')
+[1493117710539] left click on word 4.0.5 ('barbieri')
+[1493117710539] edit 4[5:17,20]
+[1493117712131] left click on word 4.1.21 ('name(ottavio_barbieri)')
+[1493117712131] add 4.1.21 to 4[5:17,20]
+[1493117716011] cancel edit
+[1493117717298] left click on word 3.1.21 ('name(ottavio_barbieri)')
+[1493117717299] new alignment group
+[1493117717299] add 3.1.21 to 3[:]
+[1493117717995] right click on word 3.1.21 ('name(ottavio_barbieri)')
+[1493117718555] right click on word 3.1.21 ('name(ottavio_barbieri)')
+[1493117720771] left click on word 3.0.2 ('barbieri')
+[1493117720771] edit 3[2:17,20]
+[1493117721834] left click on word 3.1.20 ('name(barbieri,_ottavio)')
+[1493117721834] del 3.1.20 from 3[2:17,20]
+[1493117722683] left click on word 3.1.20 ('name(barbieri,_ottavio)')
+[1493117722683] add 3.1.20 to 3[2:17]
+[1493117723363] left click on word 3.1.21 ('name(ottavio_barbieri)')
+[1493117723363] del 3.1.21 from 3[:21]
+[1493117723363] add 3.1.21 to 3[2:17,20]
+[1493117723827] right click on word 3.1.21 ('name(ottavio_barbieri)')
+[1493117758707] left click on word 4.0.8 ('represented')
+[1493117758707] new alignment group
+[1493117758707] add 4.0.8 to 4[:]
+[1493117761738] left click on word 4.0.9 ('italy')
+[1493117761739] add 4.0.9 to 4[8:]
+[1493117763747] left click on word 4.1.6 ('nationalteam(italy_national_football_team[soccer_club])')
+[1493117763747] add 4.1.6 to 4[8,9:]
+[1493117766547] right click on word 4.1.6 ('nationalteam(italy_national_football_team[soccer_club])')
+[1493117767067] right click on word 4.1.6 ('nationalteam(italy_national_football_team[soccer_club])')
+[1493117769419] label 4[8,9:6] as sure
+[1493117869170] left click on word 2.0.2 ('manager')
+[1493117869170] new alignment group
+[1493117869171] add 2.0.2 to 2[:]
+[1493117870802] left click on word 2.1.11 ('managerclubs(genoa_c.f.c.[soccer_club])')
+[1493117870803] add 2.1.11 to 2[2:]
+[1493117871299] right click on word 2.1.11 ('managerclubs(genoa_c.f.c.[soccer_club])')
+[1493117871731] right click on word 2.1.11 ('managerclubs(genoa_c.f.c.[soccer_club])')
+[1493117873706] label 2[2:11] as possible
+[1493117915058] left click on word 1.0.2 ('player')
+[1493117915059] new alignment group
+[1493117915059] add 1.0.2 to 1[:]
+[1493117915786] left click on word 1.1.2 ('position(midfielder[wikicat_association_football_positions])')
+[1493117915786] add 1.1.2 to 1[2:]
+[1493117916234] right click on word 1.1.2 ('position(midfielder[wikicat_association_football_positions])')
+[1493117916651] right click on word 1.1.2 ('position(midfielder[wikicat_association_football_positions])')
+[1493117917827] label 1[2:2] as possible
+[1493117930947] left click on word 1.0.17 ('genoa')
+[1493117930947] new alignment group
+[1493117930947] add 1.0.17 to 1[:]
+[1493117931826] left click on word 1.1.3 ('clubs(genoa_c.f.c.[soccer_club])')
+[1493117931826] add 1.1.3 to 1[17:]
+[1493117932258] right click on word 1.1.3 ('clubs(genoa_c.f.c.[soccer_club])')
+[1493117932930] right click on word 1.1.3 ('clubs(genoa_c.f.c.[soccer_club])')
+[1493117934147] label 1[17:3] as possible
+[1495550425033] NEW SESSION
+[1495550445318] left click on word 0.1.20 ('name(barbieri,_ottavio)')
+[1495550445318] new alignment group
+[1495550445318] add 0.1.20 to 0[:]
+[1495550446597] left click on word 0.1.17 ('fullname(ottavio_barbieri)')
+[1495550446597] del 0.1.17 from 0[0,1:17]
+[1495550446598] add 0.1.17 to 0[:20]
+[1495550447733] left click on word 0.0.0 ('ottavio')
+[1495550447733] del 0.0.0 from 0[0,1:]
+[1495550447734] add 0.0.0 to 0[:20,17]
+[1495550448341] left click on word 0.0.1 ('barbieri')
+[1495550448341] del 0.0.1 from 0[1:]
+[1495550448342] add 0.0.1 to 0[0:20,17]
+[1495550449821] right click on word 0.1.20 ('name(barbieri,_ottavio)')
+[1495550450173] right click on word 0.1.20 ('name(barbieri,_ottavio)')
+[1495550451533] label 0[0,1:20,17] as sure
+[1495550462093] left click on word 0.0.19 ('from')
+[1495550462093] new alignment group
+[1495550462093] add 0.0.19 to 0[:]
+[1495550463332] left click on word 0.0.20 ('genoa')
+[1495550463333] del 0.0.20 from 0[20:13]
+[1495550463333] add 0.0.20 to 0[19:]
+[1495550464964] left click on word 0.1.13 ('birth_place(genoa[location])')
+[1495550464965] del 0.1.13 from 0[:13]
+[1495550464965] add 0.1.13 to 0[19,20:]
+[1495550465517] right click on word 0.1.13 ('birth_place(genoa[location])')
+[1495550465853] right click on word 0.1.13 ('birth_place(genoa[location])')
+[1495550466941] label 0[19,20:13] as sure
+[1495550474476] left click on word 1.0.3 ('he')
+[1495550474477] new alignment group
+[1495550474477] add 1.0.3 to 1[:]
+[1495550477237] left click on word 1.1.17 ('fullname(ottavio_barbieri)')
+[1495550477237] add 1.1.17 to 1[3:]
+[1495550479893] left click on word 1.1.20 ('name(barbieri,_ottavio)')
+[1495550479893] add 1.1.20 to 1[3:17]
+[1495550480500] right click on word 1.1.20 ('name(barbieri,_ottavio)')
+[1495550480845] right click on word 1.1.20 ('name(barbieri,_ottavio)')
+[1495550482005] label 1[3:17,20] as sure
+[1495550533764] left click on word 1.1.21 ('name(ottavio_barbieri)')
+[1495550533764] new alignment group
+[1495550533764] add 1.1.21 to 1[:]
+[1495550536164] left click on word 1.1.20 ('name(barbieri,_ottavio)')
+[1495550536164] del 1.1.20 from 1[3:17,20]
+[1495550536164] add 1.1.20 to 1[:21]
+[1495550537092] left click on word 1.1.17 ('fullname(ottavio_barbieri)')
+[1495550537092] del 1.1.17 from 1[3:17]
+[1495550537092] add 1.1.17 to 1[:21,20]
+[1495550538244] left click on word 1.0.3 ('he')
+[1495550538244] del 1.0.3 from 1[3:]
+[1495550538244] add 1.0.3 to 1[:21,20,17]
+[1495550538796] right click on word 1.0.3 ('he')
+[1495550539188] right click on word 1.0.3 ('he')
+[1495550540420] label 1[3:21,20,17] as sure
+[1495550543196] left click on word 0.1.21 ('name(ottavio_barbieri)')
+[1495550543196] new alignment group
+[1495550543196] add 0.1.21 to 0[:]
+[1495550544308] left click on word 0.1.17 ('fullname(ottavio_barbieri)')
+[1495550544308] del 0.1.17 from 0[0,1:20,17]
+[1495550544308] add 0.1.17 to 0[:21]
+[1495550545355] left click on word 0.1.20 ('name(barbieri,_ottavio)')
+[1495550545355] del 0.1.20 from 0[0,1:20]
+[1495550545356] add 0.1.20 to 0[:21,17]
+[1495550547348] left click on word 0.0.1 ('barbieri')
+[1495550547348] del 0.0.1 from 0[0,1:]
+[1495550547349] add 0.0.1 to 0[:21,17,20]
+[1495550548644] left click on word 0.0.0 ('ottavio')
+[1495550548644] del 0.0.0 from 0[0:]
+[1495550548644] add 0.0.0 to 0[1:21,17,20]
+[1495550549156] right click on word 0.0.0 ('ottavio')
+[1495550549492] right click on word 0.0.0 ('ottavio')
+[1495550550636] label 0[1,0:21,17,20] as sure
+[1495550575419] left click on word 4.0.5 ('barbieri')
+[1495550575419] edit 4[5:17,20]
+[1495550576899] left click on word 4.1.17 ('fullname(ottavio_barbieri)')
+[1495550576900] del 4.1.17 from 4[5:17,20]
+[1495550577635] left click on word 4.1.17 ('fullname(ottavio_barbieri)')
+[1495550577635] add 4.1.17 to 4[5:20]
+[1495550858766] left click on word 4.0.5 ('barbieri')
+[1495550858766] del 4.0.5 from 4[5:20,17]
+[1495550859270] left click on word 4.0.5 ('barbieri')
+[1495550859270] add 4.0.5 to 4[:20,17]
+[1495550861014] left click on word 4.1.21 ('name(ottavio_barbieri)')
+[1495550861014] add 4.1.21 to 4[5:20,17]
+[1495550861606] right click on word 4.1.21 ('name(ottavio_barbieri)')
+[1495550862654] right click on word 4.1.21 ('name(ottavio_barbieri)')
+[1495550863710] label 4[5:20,17,21] as sure
+[1496049494901] NEW SESSION
+[1496049504238] left click on word 1.0.11 ('his')
+[1496049504238] new alignment group
+[1496049504238] add 1.0.11 to 1[:]
+[1496049507125] cancel edit
+[1496049530998] right click on word 1.0.11 ('his')
+[1496049537910] left click on word 2.0.7 ('he')
+[1496049537910] new alignment group
+[1496049537910] add 2.0.7 to 2[:]
+[1496049546406] left click on word 2.1.17 ('fullname(ottavio_barbieri)')
+[1496049546406] add 2.1.17 to 2[7:]
+[1496049547454] left click on word 2.1.21 ('name(ottavio_barbieri)')
+[1496049547454] add 2.1.21 to 2[7:17]
+[1496049549845] right click on word 2.1.21 ('name(ottavio_barbieri)')
+[1496049550569] right click on word 2.1.21 ('name(ottavio_barbieri)')
+[1496049550783] del 2.1.21 from 2[7:17,21]
+[1496049551310] right click on word 2.1.21 ('name(ottavio_barbieri)')
+[1496049552487] left click on word 2.1.21 ('name(ottavio_barbieri)')
+[1496049552487] new alignment group
+[1496049552488] add 2.1.21 to 2[:]
+[1496049553158] right click on word 2.1.21 ('name(ottavio_barbieri)')
+[1496049554070] left click on word 2.1.21 ('name(ottavio_barbieri)')
+[1496049554070] edit 2[:21]
+[1496049554862] right click on word 2.1.21 ('name(ottavio_barbieri)')
+[1496049555598] left click on word 2.1.21 ('name(ottavio_barbieri)')
+[1496049555598] edit 2[:21]
+[1496049556174] left click on word 2.1.17 ('fullname(ottavio_barbieri)')
+[1496049556174] del 2.1.17 from 2[7:17]
+[1496049556174] add 2.1.17 to 2[:21]
+[1496049557983] left click on word 2.0.7 ('he')
+[1496049557984] del 2.0.7 from 2[7:]
+[1496049557984] add 2.0.7 to 2[:21,17]
+[1496049559086] right click on word 2.0.7 ('he')
+[1496049559806] right click on word 2.0.7 ('he')
+[1496049561238] label 2[7:21,17] as sure

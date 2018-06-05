@@ -1,0 +1,8 @@
+
+0 0,1:15:sure 3,4,5,6,7:9:sure 11:7:possible 12,13,14:8:possible 19,20,21:14:sure 23,24,25:13:sure
+1 0:15:sure 3,4,8,9,10,11,12,13:6,10:possible
+2 4:15:sure 6,7,8,9:2:sure 15,16,17,21,20:10:possible
+3 3:15:sure
+4 13,29:15:possible
+5 0:15:sure 17,18,19:7:sure
+6 0:15:sure

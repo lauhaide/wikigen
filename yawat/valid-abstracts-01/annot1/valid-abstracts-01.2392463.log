@@ -1,0 +1,97 @@
+[1493634806009] NEW SESSION
+[1493634818423] left click on word 0.0.0 ('richard')
+[1493634818423] new alignment group
+[1493634818423] add 0.0.0 to 0[:]
+[1493634822342] left click on word 0.0.4 ('severin')
+[1493634822342] add 0.0.4 to 0[0:]
+[1493634823558] left click on word 0.0.5 ('fuld')
+[1493634823558] add 0.0.5 to 0[0,4:]
+[1493634827558] left click on word 0.0.7 ('jr.')
+[1493634827559] add 0.0.7 to 0[0,4,5:]
+[1493634830143] right click on word 0.1.1 ('birthname(richard_severin_fuld,_jr.)')
+[1493634830143] add 0.1.1 to 0[0,4,5,7:]
+[1493634832190] right click on word 0.1.1 ('birthname(richard_severin_fuld,_jr.)')
+[1493634833463] label 0[0,4,5,7:1] as sure
+[1493634835790] left click on word 0.0.9 ('born')
+[1493634835791] new alignment group
+[1493634835791] add 0.0.9 to 0[:]
+[1493634836718] left click on word 0.0.10 ('april')
+[1493634836718] add 0.0.10 to 0[9:]
+[1493634839454] left click on word 0.0.11 ('26')
+[1493634839454] add 0.0.11 to 0[9,10:]
+[1493634840382] left click on word 0.0.13 ('1946')
+[1493634840382] add 0.0.13 to 0[9,10,11:]
+[1493634841750] right click on word 0.1.4 ('birth_date(1946-04-26)')
+[1493634841750] add 0.1.4 to 0[9,10,11,13:]
+[1493634842334] right click on word 0.1.4 ('birth_date(1946-04-26)')
+[1493634844982] label 0[9,10,11,13:4] as sure
+[1493634867846] left click on word 0.0.20 ('known')
+[1493634867846] new alignment group
+[1493634867846] add 0.0.20 to 0[:]
+[1493634868527] left click on word 0.0.21 ('as')
+[1493634868527] add 0.0.21 to 0[20:]
+[1493634870846] left click on word 0.0.22 ('the')
+[1493634870847] add 0.0.22 to 0[20,21:]
+[1493634871486] left click on word 0.0.23 ('final')
+[1493634871487] add 0.0.23 to 0[20,21,22:]
+[1493634872518] left click on word 0.0.24 ('chairman')
+[1493634872518] add 0.0.24 to 0[20,21,22,23:]
+[1493634877319] left click on word 0.0.25 ('and')
+[1493634877319] add 0.0.25 to 0[20,21,22,23,24:]
+[1493634879214] left click on word 0.0.26 ('chief')
+[1493634879215] add 0.0.26 to 0[20,21,22,23,24,25:]
+[1493634881462] left click on word 0.0.27 ('executive')
+[1493634881462] add 0.0.27 to 0[20,21,22,23,24,25,26:]
+[1493634884598] left click on word 0.0.28 ('officer')
+[1493634884598] add 0.0.28 to 0[20,21,22,23,24,25,26,27:]
+[1493634887078] left click on word 0.0.29 ('of')
+[1493634887078] add 0.0.29 to 0[20,21,22,23,24,25,26,27,28:]
+[1493634887911] left click on word 0.0.30 ('lehman')
+[1493634887911] add 0.0.30 to 0[20,21,22,23,24,25,26,27,28,29:]
+[1493634888559] left click on word 0.0.31 ('brothers')
+[1493634888559] add 0.0.31 to 0[20,21,22,23,24,25,26,27,28,29,30:]
+[1493634890031] right click on word 0.1.0 ('title(former_chairman_&_ceo_of_lehman_brothers)')
+[1493634890031] add 0.1.0 to 0[20,21,22,23,24,25,26,27,28,29,30,31:]
+[1493634891015] right click on word 0.1.0 ('title(former_chairman_&_ceo_of_lehman_brothers)')
+[1493634892415] label 0[20,21,22,23,24,25,26,27,28,29,30,31:0] as sure
+[1494340315417] NEW SESSION
+[1494340319011] left click on word 1.0.0 ('fuld')
+[1494340319011] new alignment group
+[1494340319011] add 1.0.0 to 1[:]
+[1494340327459] right click on word 1.1.1 ('birthname(richard_severin_fuld,_jr.)')
+[1494340327459] add 1.1.1 to 1[0:]
+[1494340333981] right click on word 1.1.1 ('birthname(richard_severin_fuld,_jr.)')
+[1494340336451] label 1[0:1] as sure
+[1494340455917] left click on word 3.0.0 ('fuld')
+[1494340455918] new alignment group
+[1494340455918] add 3.0.0 to 3[:]
+[1494340459124] right click on word 3.1.1 ('birthname(richard_severin_fuld,_jr.)')
+[1494340459124] add 3.1.1 to 3[0:]
+[1494340461486] right click on word 3.1.1 ('birthname(richard_severin_fuld,_jr.)')
+[1494340463788] label 3[0:1] as possible
+[1494340469868] left click on word 3.1.1 ('birthname(richard_severin_fuld,_jr.)')
+[1494340469868] edit 3[0:1]
+[1494340470268] right click on word 3.1.1 ('birthname(richard_severin_fuld,_jr.)')
+[1494340470980] right click on word 3.1.1 ('birthname(richard_severin_fuld,_jr.)')
+[1494340472333] label 3[0:1] as sure
+[1496072078938] NEW SESSION
+[1496072108489] left click on word 4.0.4 ('fuld')
+[1496072108489] new alignment group
+[1496072108489] add 4.0.4 to 4[:]
+[1496072112697] right click on word 4.1.1 ('birthname(richard_severin_fuld,_jr.)')
+[1496072112697] add 4.1.1 to 4[4:]
+[1496072113473] right click on word 4.1.1 ('birthname(richard_severin_fuld,_jr.)')
+[1496072115625] label 4[4:1] as sure
+[1496072144777] left click on word 4.1.1 ('birthname(richard_severin_fuld,_jr.)')
+[1496072144777] edit 4[4:1]
+[1496072148761] right click on word 4.0.20 ('he')
+[1496072148761] add 4.0.20 to 4[4:1]
+[1496072150673] right click on word 4.0.20 ('he')
+[1496072154024] label 4[4,20:1] as possible
+[1496072157417] left click on word 5.0.0 ('fuld')
+[1496072157417] new alignment group
+[1496072157417] add 5.0.0 to 5[:]
+[1496072158641] right click on word 5.1.1 ('birthname(richard_severin_fuld,_jr.)')
+[1496072158641] add 5.1.1 to 5[0:]
+[1496072159361] right click on word 5.1.1 ('birthname(richard_severin_fuld,_jr.)')
+[1496072160777] label 5[0:1] as sure

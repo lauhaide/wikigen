@@ -1,0 +1,216 @@
+[1493116970108] NEW SESSION
+[1493116993288] left click on word 0.0.19 ('recipient')
+[1493116993288] new alignment group
+[1493116993288] add 0.0.19 to 0[:]
+[1493116993943] left click on word 0.0.20 ('of')
+[1493116993943] add 0.0.20 to 0[19:]
+[1493116995047] left click on word 0.0.21 ('the')
+[1493116995048] add 0.0.21 to 0[19,20:]
+[1493116995656] left click on word 0.0.22 ('victoria')
+[1493116995656] add 0.0.22 to 0[19,20,21:]
+[1493116996479] left click on word 0.0.23 ('cross')
+[1493116996480] add 0.0.23 to 0[19,20,21,22:]
+[1493116998767] left click on word 0.1.0 ('awards(victoria_cross)')
+[1493116998767] add 0.1.0 to 0[19,20,21,22,23:]
+[1493116999272] right click on word 0.1.0 ('awards(victoria_cross)')
+[1493116999783] right click on word 0.1.0 ('awards(victoria_cross)')
+[1493117001224] label 0[19,20,21,22,23:0] as sure
+[1493117016616] left click on word 0.0.0 ('john')
+[1493117016616] new alignment group
+[1493117016616] add 0.0.0 to 0[:]
+[1493117017168] left click on word 0.0.1 ('bernard')
+[1493117017168] add 0.0.1 to 0[0:]
+[1493117020527] left click on word 0.0.5 ('mackey')
+[1493117020528] add 0.0.5 to 0[0,1:]
+[1493117026559] left click on word 0.1.9 ('name(john_bernard_mackey)')
+[1493117026560] add 0.1.9 to 0[0,1,5:]
+[1493117027112] right click on word 0.1.9 ('name(john_bernard_mackey)')
+[1493117027575] right click on word 0.1.9 ('name(john_bernard_mackey)')
+[1493117029311] label 0[0,1,5:9] as sure
+[1493117057832] left click on word 0.0.18 ('australian')
+[1493117057832] new alignment group
+[1493117057832] add 0.0.18 to 0[:]
+[1493117059056] left click on word 0.1.7 ('allegiance(australia)')
+[1493117059056] add 0.1.7 to 0[18:]
+[1493117059600] right click on word 0.1.7 ('allegiance(australia)')
+[1493117060064] right click on word 0.1.7 ('allegiance(australia)')
+[1493117061504] label 0[18:7] as possible
+[1493117089280] left click on word 0.0.41 ('british')
+[1493117089280] new alignment group
+[1493117089280] add 0.0.41 to 0[:]
+[1493117089936] left click on word 0.0.42 ('commonwealth')
+[1493117089936] add 0.0.42 to 0[41:]
+[1493117090800] left click on word 0.0.43 ('forces')
+[1493117090800] add 0.0.43 to 0[41,42:]
+[1493117092080] left click on word 0.1.3 ('branch(australian_army[military_unit])')
+[1493117092080] add 0.1.3 to 0[41,42,43:]
+[1493117092672] right click on word 0.1.3 ('branch(australian_army[military_unit])')
+[1493117093128] right click on word 0.1.3 ('branch(australian_army[military_unit])')
+[1493117094768] label 0[41,42,43:3] as possible
+[1493117126112] left click on word 1.0.14 ('second')
+[1493117126112] new alignment group
+[1493117126112] add 1.0.14 to 1[:]
+[1493117126896] left click on word 1.0.15 ('world')
+[1493117126896] add 1.0.15 to 1[14:]
+[1493117129656] left click on word 1.0.16 ('war')
+[1493117129656] add 1.0.16 to 1[14,15:]
+[1493117130809] left click on word 1.1.4 ('battles(world_war_ii[military_conflict])')
+[1493117130809] add 1.1.4 to 1[14,15,16:]
+[1493117132112] right click on word 1.1.4 ('battles(world_war_ii[military_conflict])')
+[1493117132680] right click on word 1.1.4 ('battles(world_war_ii[military_conflict])')
+[1493117134000] label 1[14,15,16:4] as sure
+[1493117169992] left click on word 1.0.5 ('australians')
+[1493117169992] new alignment group
+[1493117169992] add 1.0.5 to 1[:]
+[1493117171840] left click on word 1.1.3 ('branch(australian_army[military_unit])')
+[1493117171840] add 1.1.3 to 1[5:]
+[1493117172368] right click on word 1.1.3 ('branch(australian_army[military_unit])')
+[1493117172808] right click on word 1.1.3 ('branch(australian_army[military_unit])')
+[1493117174512] label 1[5:3] as possible
+[1493117201489] left click on word 1.0.0 ('mackey')
+[1493117201489] new alignment group
+[1493117201489] add 1.0.0 to 1[:]
+[1493117202896] left click on word 1.1.9 ('name(john_bernard_mackey)')
+[1493117202897] add 1.1.9 to 1[0:]
+[1493117203432] right click on word 1.1.9 ('name(john_bernard_mackey)')
+[1493117203888] right click on word 1.1.9 ('name(john_bernard_mackey)')
+[1493117205168] label 1[0:9] as possible
+[1493117335769] left click on word 1.0.34 ('the')
+[1493117335769] new alignment group
+[1493117335769] add 1.0.34 to 1[:]
+[1493117336513] left click on word 1.0.35 ('battle')
+[1493117336513] add 1.0.35 to 1[34:]
+[1493117337241] left click on word 1.0.36 ('of')
+[1493117337241] add 1.0.36 to 1[34,35:]
+[1493117338001] left click on word 1.0.37 ('tarkan')
+[1493117338001] add 1.0.37 to 1[34,35,36:]
+[1493117339257] left click on word 1.1.6 ('battles(borneo_campaign[military_conflict])')
+[1493117339257] add 1.1.6 to 1[34,35,36,37:]
+[1493117339857] right click on word 1.1.6 ('battles(borneo_campaign[military_conflict])')
+[1493117340321] right click on word 1.1.6 ('battles(borneo_campaign[military_conflict])')
+[1493117341721] label 1[34,35,36,37:6] as possible
+[1495549845635] NEW SESSION
+[1495549900708] left click on word 1.0.8 ('the')
+[1495549900708] new alignment group
+[1495549900709] add 1.0.8 to 1[:]
+[1495549901325] left click on word 1.0.9 ('award')
+[1495549901326] add 1.0.9 to 1[8:]
+[1495549902028] left click on word 1.1.0 ('awards(victoria_cross)')
+[1495549902028] add 1.1.0 to 1[8,9:]
+[1495549902612] right click on word 1.1.0 ('awards(victoria_cross)')
+[1495549903300] right click on word 1.1.0 ('awards(victoria_cross)')
+[1495549905413] label 1[8,9:0] as possible
+[1495550333447] left click on word 1.0.19 ('his')
+[1495550333447] new alignment group
+[1495550333447] add 1.0.19 to 1[:]
+[1495550334399] left click on word 1.0.20 ('award')
+[1495550334399] add 1.0.20 to 1[19:]
+[1495550336015] left click on word 1.1.0 ('awards(victoria_cross)')
+[1495550336015] del 1.1.0 from 1[8,9:0]
+[1495550336016] add 1.1.0 to 1[19,20:]
+[1495550336735] right click on word 1.1.0 ('awards(victoria_cross)')
+[1495550337222] right click on word 1.1.0 ('awards(victoria_cross)')
+[1495550338680] label 1[19,20:0] as possible
+[1495550341166] left click on word 1.0.8 ('the')
+[1495550341167] edit 1[8,9:]
+[1495550341926] left click on word 1.0.9 ('award')
+[1495550341926] del 1.0.9 from 1[8,9:]
+[1495550342878] left click on word 1.0.9 ('award')
+[1495550342879] add 1.0.9 to 1[8:]
+[1495550343423] left click on word 1.0.9 ('award')
+[1495550343423] del 1.0.9 from 1[8,9:]
+[1495550343967] left click on word 1.0.9 ('award')
+[1495550343967] add 1.0.9 to 1[8:]
+[1495550345607] left click on word 1.0.19 ('his')
+[1495550345607] del 1.0.19 from 1[19,20:0]
+[1495550345607] add 1.0.19 to 1[8,9:]
+[1495550346351] left click on word 1.0.20 ('award')
+[1495550346351] del 1.0.20 from 1[20:0]
+[1495550346351] add 1.0.20 to 1[8,9,19:]
+[1495550347551] left click on word 1.1.0 ('awards(victoria_cross)')
+[1495550347551] del 1.1.0 from 1[:0]
+[1495550347551] add 1.1.0 to 1[8,9,19,20:]
+[1495550348119] right click on word 1.1.0 ('awards(victoria_cross)')
+[1495550348574] right click on word 1.1.0 ('awards(victoria_cross)')
+[1495550350270] label 1[8,9,19,20:0] as possible
+[1495550377750] left click on word 2.0.0 ('he')
+[1495550377750] new alignment group
+[1495550377750] add 2.0.0 to 2[:]
+[1495550383910] left click on word 2.1.9 ('name(john_bernard_mackey)')
+[1495550383910] add 2.1.9 to 2[0:]
+[1495550389758] right click on word 2.1.9 ('name(john_bernard_mackey)')
+[1495550390230] right click on word 2.1.9 ('name(john_bernard_mackey)')
+[1495550391734] label 2[0:9] as sure
+[1495550402846] left click on word 2.0.7 ('corporal')
+[1495550402846] new alignment group
+[1495550402846] add 2.0.7 to 2[:]
+[1495550404549] left click on word 2.0.4 ('serving')
+[1495550404549] add 2.0.4 to 2[7:]
+[1495550405326] left click on word 2.0.5 ('as')
+[1495550405326] add 2.0.5 to 2[7,4:]
+[1495550406078] left click on word 2.0.6 ('a')
+[1495550406078] add 2.0.6 to 2[7,4,5:]
+[1495550407965] left click on word 2.1.3 ('branch(australian_army[military_unit])')
+[1495550407966] add 2.1.3 to 2[7,4,5,6:]
+[1495550408765] right click on word 2.1.3 ('branch(australian_army[military_unit])')
+[1495550409398] right click on word 2.1.3 ('branch(australian_army[military_unit])')
+[1495550410629] label 2[7,4,5,6:3] as possible
+[1496049406327] NEW SESSION
+[1496049422382] left click on word 1.0.19 ('his')
+[1496049422382] edit 1[8,9,19,20:0]
+[1496049423646] left click on word 1.0.19 ('his')
+[1496049423647] del 1.0.19 from 1[8,9,19,20:0]
+[1496049424990] cancel edit
+[1496049424991] add 1.0.19 to 1[8,9,20:0]
+[1496049426054] left click on word 1.0.19 ('his')
+[1496049426054] edit 1[8,9,20,19:0]
+[1496049426806] left click on word 1.0.20 ('award')
+[1496049426806] del 1.0.20 from 1[8,9,20,19:0]
+[1496049427518] left click on word 1.0.8 ('the')
+[1496049427518] del 1.0.8 from 1[8,9,19:0]
+[1496049428254] left click on word 1.0.9 ('award')
+[1496049428254] del 1.0.9 from 1[9,19:0]
+[1496049429526] left click on word 1.1.0 ('awards(victoria_cross)')
+[1496049429526] del 1.1.0 from 1[19:0]
+[1496049430670] left click on word 1.0.19 ('his')
+[1496049430670] del 1.0.19 from 1[19:]
+[1496049433214] left click on word 1.0.9 ('award')
+[1496049433214] add 1.0.9 to 1[:]
+[1496049434767] left click on word 1.0.20 ('award')
+[1496049434767] add 1.0.20 to 1[9:]
+[1496049436470] left click on word 1.1.0 ('awards(victoria_cross)')
+[1496049436470] add 1.1.0 to 1[9,20:]
+[1496049438654] cancel edit
+[1496049438654] add 1.0.8 to 1[9,20:0]
+[1496049438655] add 1.0.19 to 1[9,20,8:0]
+[1496049441382] left click on word 1.0.19 ('his')
+[1496049441382] edit 1[9,20,8,19:0]
+[1496049441991] right click on word 1.0.19 ('his')
+[1496049442534] right click on word 1.0.19 ('his')
+[1496049443854] del 1.0.19 from 1[9,20,8,19:0]
+[1496049445094] left click on word 1.0.19 ('his')
+[1496049445094] new alignment group
+[1496049445094] add 1.0.19 to 1[:]
+[1496049453686] left click on word 1.1.9 ('name(john_bernard_mackey)')
+[1496049453686] del 1.1.9 from 1[0:9]
+[1496049453686] add 1.1.9 to 1[19:]
+[1496049454326] right click on word 1.1.9 ('name(john_bernard_mackey)')
+[1496049455718] right click on word 1.1.9 ('name(john_bernard_mackey)')
+[1496049456974] label 1[19:9] as possible
+[1496049463254] left click on word 1.0.19 ('his')
+[1496049463254] edit 1[19:9]
+[1496049464062] left click on word 1.0.19 ('his')
+[1496049464062] del 1.0.19 from 1[19:9]
+[1496049467966] right click on word 1.0.19 ('his')
+[1496049467966] add 1.0.19 to 1[:9]
+[1496049468462] right click on word 1.0.19 ('his')
+[1496049470470] label 1[19:9] as possible
+[1496049472326] left click on word 1.1.9 ('name(john_bernard_mackey)')
+[1496049472326] edit 1[19:9]
+[1496049473062] left click on word 1.1.9 ('name(john_bernard_mackey)')
+[1496049473062] del 1.1.9 from 1[19:9]
+[1496049474390] left click on word 1.0.19 ('his')
+[1496049474390] del 1.0.19 from 1[19:]
+[1496049475766] cancel edit
+[1496049475766] add 1.1.9 to 1[:]
+[1496049475767] add 1.0.19 to 1[:9]

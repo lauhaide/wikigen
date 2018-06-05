@@ -1,0 +1,6 @@
+
+0 8,9:5:sure 12,13:4:sure 18:0:possible 19:1:sure
+1 0:5:sure 1,2,3,4,5,6:2:sure 8,9,10,11,12:1:possible
+2 0:5:sure
+3 0:5:possible
+4 0:5:sure

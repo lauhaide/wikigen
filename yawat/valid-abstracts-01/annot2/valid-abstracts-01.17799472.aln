@@ -1,0 +1,7 @@
+
+0 0,2:2:possible 5:3:sure 6,7:0:sure
+1 0:2:possible 1,2,3,4,5:1:sure
+2 3:0:possible 11:3:sure
+3 0:2:sure 2:1:possible 6:3:sure
+4 0:2:sure 14:3:sure
+5 0:2:sure

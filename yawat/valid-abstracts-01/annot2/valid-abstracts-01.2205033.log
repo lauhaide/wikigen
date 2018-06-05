@@ -1,0 +1,101 @@
+[1493722337531] NEW SESSION
+[1493722340484] left click on word 0.1.0 ('birth_name(conchita_elizabeth_campbell)')
+[1493722340485] new alignment group
+[1493722340485] add 0.1.0 to 0[:]
+[1493722341388] left click on word 0.0.0 ('conchita')
+[1493722341388] add 0.0.0 to 0[:0]
+[1493722342004] left click on word 0.0.1 ('elizabeth')
+[1493722342005] add 0.0.1 to 0[0:0]
+[1493722342484] left click on word 0.0.2 ('campbell')
+[1493722342484] add 0.0.2 to 0[0,1:0]
+[1493722342996] right click on word 0.0.2 ('campbell')
+[1493722343468] right click on word 0.0.2 ('campbell')
+[1493722344796] label 0[0,1,2:0] as sure
+[1493722346684] left click on word 0.0.4 ('born')
+[1493722346684] new alignment group
+[1493722346684] add 0.0.4 to 0[:]
+[1493722347124] left click on word 0.0.5 ('october')
+[1493722347124] add 0.0.5 to 0[4:]
+[1493722347932] left click on word 0.0.6 ('25')
+[1493722347932] add 0.0.6 to 0[4,5:]
+[1493722349172] left click on word 0.1.1 ('birth_date(1995-10-25)')
+[1493722349172] add 0.1.1 to 0[4,5,6:]
+[1493722349620] right click on word 0.1.1 ('birth_date(1995-10-25)')
+[1493722349972] right click on word 0.1.1 ('birth_date(1995-10-25)')
+[1493722351220] label 0[4,5,6:1] as sure
+[1493722353908] left click on word 0.0.4 ('born')
+[1493722353908] edit 0[4,5,6:1]
+[1493722354388] left click on word 0.0.5 ('october')
+[1493722354388] del 0.0.5 from 0[4,5,6:1]
+[1493722355252] left click on word 0.0.4 ('born')
+[1493722355252] del 0.0.4 from 0[4,6:1]
+[1493722355892] left click on word 0.0.6 ('25')
+[1493722355892] del 0.0.6 from 0[6:1]
+[1493722356901] left click on word 0.0.4 ('born')
+[1493722356901] add 0.0.4 to 0[:1]
+[1493722357404] left click on word 0.0.5 ('october')
+[1493722357404] add 0.0.5 to 0[4:1]
+[1493722357916] left click on word 0.0.6 ('25')
+[1493722357916] add 0.0.6 to 0[4,5:1]
+[1493722358452] left click on word 0.0.7 (',')
+[1493722358452] add 0.0.7 to 0[4,5,6:1]
+[1493722359017] left click on word 0.0.8 ('1995')
+[1493722359017] add 0.0.8 to 0[4,5,6,7:1]
+[1493722360020] right click on word 0.1.1 ('birth_date(1995-10-25)')
+[1493722363893] left click on word 0.0.10 ('is')
+[1493722363893] new alignment group
+[1493722363893] add 0.0.10 to 0[:]
+[1493722365844] left click on word 0.0.13 ('actress')
+[1493722365844] add 0.0.13 to 0[10:]
+[1493722367017] left click on word 0.0.11 ('a')
+[1493722367017] add 0.0.11 to 0[10,13:]
+[1493722368436] right click on word 0.1.2 ('occupation(actress)')
+[1493722368436] add 0.1.2 to 0[10,13,11:]
+[1493722369076] right click on word 0.1.2 ('occupation(actress)')
+[1493722370204] label 0[10,13,11:2] as sure
+[1493722371044] left click on word 0.0.12 ('canadian')
+[1493722371044] new alignment group
+[1493722371044] add 0.0.12 to 0[:]
+[1493722372356] left click on word 0.1.3 ('birth_place(british_columbia)')
+[1493722372356] add 0.1.3 to 0[12:]
+[1493722373308] right click on word 0.1.3 ('birth_place(british_columbia)')
+[1493722375812] right click on word 0.1.5 ('birth_place(canada[location])')
+[1493722381172] left click on word 0.0.12 ('canadian')
+[1493722381172] edit 0[12:3]
+[1493722381444] left click on word 0.0.12 ('canadian')
+[1493722381444] del 0.0.12 from 0[12:3]
+[1493722382348] left click on word 0.1.3 ('birth_place(british_columbia)')
+[1493722382348] del 0.1.3 from 0[:3]
+[1493722383404] left click on word 0.1.5 ('birth_place(canada[location])')
+[1493722383404] add 0.1.5 to 0[:]
+[1493722384388] left click on word 0.0.12 ('canadian')
+[1493722384388] add 0.0.12 to 0[:5]
+[1493722385412] left click on word 0.1.3 ('birth_place(british_columbia)')
+[1493722385412] add 0.1.3 to 0[12:5]
+[1493722385996] right click on word 0.1.3 ('birth_place(british_columbia)')
+[1493722386468] right click on word 0.1.3 ('birth_place(british_columbia)')
+[1493722388060] label 0[12:5,3] as possible
+[1493722400980] left click on word 0.1.3 ('birth_place(british_columbia)')
+[1493722400980] edit 0[12:5,3]
+[1493722401356] left click on word 0.1.3 ('birth_place(british_columbia)')
+[1493722401356] del 0.1.3 from 0[12:5,3]
+[1493722417916] cancel edit
+[1493722417917] add 0.1.3 to 0[12:5]
+[1496050640275] NEW SESSION
+[1496050652272] left click on word 0.0.10 ('is')
+[1496050652272] edit 0[10,13,11:2]
+[1496050653367] left click on word 0.0.13 ('actress')
+[1496050653368] del 0.0.13 from 0[10,13,11:2]
+[1496050654511] left click on word 0.0.13 ('actress')
+[1496050654511] add 0.0.13 to 0[10,11:2]
+[1496050656031] left click on word 0.1.4 ('wordnet_type(actor)')
+[1496050656032] add 0.1.4 to 0[10,11,13:2]
+[1496050661967] cancel edit
+[1496050664735] left click on word 1.1.0 ('birth_name(conchita_elizabeth_campbell)')
+[1496050664735] new alignment group
+[1496050664736] add 1.1.0 to 1[:]
+[1496050666207] left click on word 1.0.0 ('she')
+[1496050666207] add 1.0.0 to 1[:0]
+[1496050667288] right click on word 1.1.0 ('birth_name(conchita_elizabeth_campbell)')
+[1496050667743] right click on word 1.1.0 ('birth_name(conchita_elizabeth_campbell)')
+[1496050668847] label 1[0:0] as sure

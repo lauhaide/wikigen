@@ -1,0 +1,121 @@
+[1493469315571] NEW SESSION
+[1493469330003] left click on word 0.0.0 ('sir')
+[1493469330004] new alignment group
+[1493469330004] add 0.0.0 to 0[:]
+[1493469331123] left click on word 0.0.1 ('george')
+[1493469331124] add 0.0.1 to 0[0:]
+[1493469337073] left click on word 0.0.3 ('morris')
+[1493469337074] add 0.0.3 to 0[0,1:]
+[1493469338620] left click on word 0.0.5 ('8th')
+[1493469338620] add 0.0.5 to 0[0,1,3:]
+[1493469339339] left click on word 0.0.6 ('baronet')
+[1493469339340] add 0.0.6 to 0[0,1,3,5:]
+[1493469340714] left click on word 0.1.1 ('name(morris,_sir_george,_8th_baronet)')
+[1493469340714] add 0.1.1 to 0[0,1,3,5,6:]
+[1493469341535] right click on word 0.1.1 ('name(morris,_sir_george,_8th_baronet)')
+[1493469342013] right click on word 0.1.1 ('name(morris,_sir_george,_8th_baronet)')
+[1493469343805] label 0[0,1,3,5,6:1] as sure
+[1493469351262] left click on word 0.0.12 ('23')
+[1493469351262] new alignment group
+[1493469351262] add 0.0.12 to 0[:]
+[1493469351999] left click on word 0.0.13 ('november')
+[1493469351999] add 0.0.13 to 0[12:]
+[1493469352880] left click on word 0.0.14 ('1947')
+[1493469352880] add 0.0.14 to 0[12,13:]
+[1493469354218] left click on word 0.1.0 ('date_of_death(1947-11-23)')
+[1493469354218] add 0.1.0 to 0[12,13,14:]
+[1493469354917] right click on word 0.1.0 ('date_of_death(1947-11-23)')
+[1493469355199] right click on word 0.1.0 ('date_of_death(1947-11-23)')
+[1493469356954] label 0[12,13,14:0] as sure
+[1493469385720] left click on word 0.0.16 ('was')
+[1493469385721] new alignment group
+[1493469385721] add 0.0.16 to 0[:]
+[1493469388359] left click on word 0.0.17 ('a')
+[1493469388359] add 0.0.17 to 0[16:]
+[1493469389167] left click on word 0.0.21 ('iron')
+[1493469389168] add 0.0.21 to 0[16,17:]
+[1493469390223] left click on word 0.0.22 ('founder')
+[1493469390224] add 0.0.22 to 0[16,17,21:]
+[1493469391609] left click on word 0.1.7 ('occupation(iron_founder)')
+[1493469391609] add 0.1.7 to 0[16,17,21,22:]
+[1493469392160] right click on word 0.1.7 ('occupation(iron_founder)')
+[1493469392565] right click on word 0.1.7 ('occupation(iron_founder)')
+[1493469394639] label 0[16,17,21,22:7] as sure
+[1493469412515] left click on word 1.0.0 ('he')
+[1493469412516] new alignment group
+[1493469412516] add 1.0.0 to 1[:]
+[1493469413472] left click on word 1.0.1 ('was')
+[1493469413472] add 1.0.1 to 1[0:]
+[1493469419673] left click on word 1.0.3 ('an')
+[1493469419673] add 1.0.3 to 1[0,1:]
+[1493469424159] left click on word 1.0.5 ('rugby')
+[1493469424159] add 1.0.5 to 1[0,1,3:]
+[1493469427754] left click on word 1.0.6 ('union')
+[1493469427754] add 1.0.6 to 1[0,1,3,5:]
+[1493469428944] left click on word 1.0.7 ('forward')
+[1493469428945] add 1.0.7 to 1[0,1,3,5,6:]
+[1493469430293] left click on word 1.1.6 ('short_description(wales_rugby_union_player)')
+[1493469430294] add 1.1.6 to 1[0,1,3,5,6,7:]
+[1493469431238] right click on word 1.1.6 ('short_description(wales_rugby_union_player)')
+[1493469431863] right click on word 1.1.6 ('short_description(wales_rugby_union_player)')
+[1493469434489] label 1[0,1,3,5,6,7:6] as possible
+[1493469446805] left click on word 2.0.0 ('he')
+[1493469446805] new alignment group
+[1493469446805] add 2.0.0 to 2[:]
+[1493469447789] left click on word 2.0.1 ('played')
+[1493469447789] add 2.0.1 to 2[0:]
+[1493469448609] left click on word 2.0.2 ('club')
+[1493469448609] add 2.0.2 to 2[0,1:]
+[1493469449160] left click on word 2.0.3 ('rugby')
+[1493469449160] add 2.0.3 to 2[0,1,2:]
+[1493469449848] left click on word 2.0.4 ('for')
+[1493469449848] add 2.0.4 to 2[0,1,2,3:]
+[1493469450436] left click on word 2.0.5 ('swansea')
+[1493469450436] add 2.0.5 to 2[0,1,2,3,4:]
+[1493469452166] left click on word 2.1.6 ('short_description(wales_rugby_union_player)')
+[1493469452166] add 2.1.6 to 2[0,1,2,3,4,5:]
+[1493469452877] right click on word 2.1.6 ('short_description(wales_rugby_union_player)')
+[1493469453404] right click on word 2.1.6 ('short_description(wales_rugby_union_player)')
+[1493469455197] label 2[0,1,2,3,4,5:6] as possible
+[1496050361139] NEW SESSION
+[1496050367351] left click on word 0.0.0 ('sir')
+[1496050367352] edit 0[0,1,3,5,6:1]
+[1496050368583] left click on word 0.0.1 ('george')
+[1496050368583] del 0.0.1 from 0[0,1,3,5,6:1]
+[1496050369775] left click on word 0.0.1 ('george')
+[1496050369775] add 0.0.1 to 0[0,3,5,6:1]
+[1496050370535] left click on word 0.0.2 ('lockwood')
+[1496050370535] add 0.0.2 to 0[0,3,5,6,1:1]
+[1496050375559] left click on word 0.1.4 ('name(sir_george_lockwood_morris,_bt)')
+[1496050375559] add 0.1.4 to 0[0,3,5,6,1,2:1]
+[1496050376199] right click on word 0.1.4 ('name(sir_george_lockwood_morris,_bt)')
+[1496050400152] right click on word 1.0.0 ('he')
+[1496050401103] del 1.0.0 from 1[0,1,3,5,6,7:6]
+[1496050401879] left click on word 1.0.0 ('he')
+[1496050401879] new alignment group
+[1496050401879] add 1.0.0 to 1[:]
+[1496050403543] left click on word 1.1.1 ('name(morris,_sir_george,_8th_baronet)')
+[1496050403543] add 1.1.1 to 1[0:]
+[1496050404679] left click on word 1.1.4 ('name(sir_george_lockwood_morris,_bt)')
+[1496050404679] add 1.1.4 to 1[0:1]
+[1496050405151] right click on word 1.1.4 ('name(sir_george_lockwood_morris,_bt)')
+[1496050405471] right click on word 1.1.4 ('name(sir_george_lockwood_morris,_bt)')
+[1496050406655] label 1[0:1,4] as sure
+[1496050417800] left click on word 0.0.18 ('welsh')
+[1496050417800] new alignment group
+[1496050417800] add 0.0.18 to 0[:]
+[1496050422447] left click on word 0.0.18 ('welsh')
+[1496050422447] del 0.0.18 from 0[18:]
+[1496050426575] cancel edit
+[1496050427207] right click on word 2.0.0 ('he')
+[1496050427959] del 2.0.0 from 2[0,1,2,3,4,5:6]
+[1496050428711] left click on word 2.0.0 ('he')
+[1496050428711] new alignment group
+[1496050428711] add 2.0.0 to 2[:]
+[1496050430351] left click on word 2.1.1 ('name(morris,_sir_george,_8th_baronet)')
+[1496050430351] add 2.1.1 to 2[0:]
+[1496050432511] left click on word 2.1.4 ('name(sir_george_lockwood_morris,_bt)')
+[1496050432511] add 2.1.4 to 2[0:1]
+[1496050433159] right click on word 2.1.4 ('name(sir_george_lockwood_morris,_bt)')
+[1496050433623] right click on word 2.1.4 ('name(sir_george_lockwood_morris,_bt)')
+[1496050434832] label 2[0:1,4] as sure

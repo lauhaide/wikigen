@@ -1,0 +1,270 @@
+[1493719665091] NEW SESSION
+[1493719697102] left click on word 0.0.14 ('with')
+[1493719697102] new alignment group
+[1493719697102] add 0.0.14 to 0[:]
+[1493719698165] left click on word 0.0.15 ('strong')
+[1493719698166] add 0.0.15 to 0[14:]
+[1493719699029] left click on word 0.0.16 ('ties')
+[1493719699030] add 0.0.16 to 0[14,15:]
+[1493719701126] left click on word 0.0.17 ('to')
+[1493719701126] add 0.0.17 to 0[14,15,16:]
+[1493719704509] left click on word 0.0.25 ('scotland')
+[1493719704510] add 0.0.25 to 0[14,15,16,17:]
+[1493719705686] left click on word 0.1.12 ('origin(scotland)')
+[1493719705686] add 0.1.12 to 0[14,15,16,17,25:]
+[1493719706422] right click on word 0.1.12 ('origin(scotland)')
+[1493719707158] right click on word 0.1.12 ('origin(scotland)')
+[1493719708933] label 0[14,15,16,17,25:12] as possible
+[1493719740429] left click on word 0.0.18 ('isle')
+[1493719740429] new alignment group
+[1493719740430] add 0.0.18 to 0[:]
+[1493719741261] left click on word 0.0.19 ('of')
+[1493719741261] add 0.0.19 to 0[18:]
+[1493719741725] left click on word 0.0.20 ('lewis')
+[1493719741725] add 0.0.20 to 0[18,19:]
+[1493719742221] left click on word 0.0.21 ('in')
+[1493719742221] add 0.0.21 to 0[18,19,20:]
+[1493719743486] left click on word 0.0.23 ('hebrides')
+[1493719743486] add 0.0.23 to 0[18,19,20,21:]
+[1493719744405] left click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719744405] add 0.1.2 to 0[18,19,20,21,23:]
+[1493719744934] right click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719745349] right click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719746509] label 0[18,19,20,21,23:2] as possible
+[1493719766462] left click on word 0.0.14 ('with')
+[1493719766462] edit 0[14,15,16,17,25:12]
+[1493719767054] left click on word 0.0.14 ('with')
+[1493719767054] del 0.0.14 from 0[14,15,16,17,25:12]
+[1493719767943] left click on word 0.0.15 ('strong')
+[1493719767944] del 0.0.15 from 0[15,16,17,25:12]
+[1493719768454] left click on word 0.0.16 ('ties')
+[1493719768454] del 0.0.16 from 0[16,17,25:12]
+[1493719768901] cancel edit
+[1493719768902] add 0.0.14 to 0[17,25:12]
+[1493719768902] add 0.0.15 to 0[17,25,14:12]
+[1493719768903] add 0.0.16 to 0[17,25,14,15:12]
+[1493719769966] left click on word 0.0.17 ('to')
+[1493719769966] edit 0[17,25,14,15,16:12]
+[1493719770517] left click on word 0.0.18 ('isle')
+[1493719770517] del 0.0.18 from 0[18,19,20,21,23:2]
+[1493719770518] add 0.0.18 to 0[17,25,14,15,16:12]
+[1493719771310] left click on word 0.0.19 ('of')
+[1493719771310] del 0.0.19 from 0[19,20,21,23:2]
+[1493719771311] add 0.0.19 to 0[17,25,14,15,16,18:12]
+[1493719771862] left click on word 0.0.20 ('lewis')
+[1493719771862] del 0.0.20 from 0[20,21,23:2]
+[1493719771862] add 0.0.20 to 0[17,25,14,15,16,18,19:12]
+[1493719772381] left click on word 0.0.21 ('in')
+[1493719772381] del 0.0.21 from 0[21,23:2]
+[1493719772382] add 0.0.21 to 0[17,25,14,15,16,18,19,20:12]
+[1493719773150] left click on word 0.0.22 ('the')
+[1493719773150] add 0.0.22 to 0[17,25,14,15,16,18,19,20,21:12]
+[1493719773621] left click on word 0.0.23 ('hebrides')
+[1493719773622] del 0.0.23 from 0[23:2]
+[1493719773622] add 0.0.23 to 0[17,25,14,15,16,18,19,20,21,22:12]
+[1493719774182] left click on word 0.0.24 (',')
+[1493719774182] add 0.0.24 to 0[17,25,14,15,16,18,19,20,21,22,23:12]
+[1493719774733] left click on word 0.0.25 ('scotland')
+[1493719774734] del 0.0.25 from 0[17,25,14,15,16,18,19,20,21,22,23,24:12]
+[1493719776046] left click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719776046] del 0.1.2 from 0[:2]
+[1493719776046] add 0.1.2 to 0[17,14,15,16,18,19,20,21,22,23,24:12]
+[1493719777182] left click on word 0.0.25 ('scotland')
+[1493719777182] add 0.0.25 to 0[17,14,15,16,18,19,20,21,22,23,24:12,2]
+[1493719780925] cancel edit
+[1493719780926] add 0.0.18 to 0[:]
+[1493719780926] add 0.0.19 to 0[18:]
+[1493719780926] add 0.0.20 to 0[18,19:]
+[1493719780926] add 0.0.21 to 0[18,19,20:]
+[1493719780927] add 0.0.23 to 0[18,19,20,21:]
+[1493719780928] add 0.1.2 to 0[18,19,20,21,23:]
+[1493719783277] left click on word 0.0.14 ('with')
+[1493719783277] edit 0[17,14,15,16,25:12]
+[1493719783733] left click on word 0.0.14 ('with')
+[1493719783734] del 0.0.14 from 0[17,14,15,16,25:12]
+[1493719784846] left click on word 0.0.17 ('to')
+[1493719784846] del 0.0.17 from 0[17,15,16,25:12]
+[1493719785382] left click on word 0.0.16 ('ties')
+[1493719785382] del 0.0.16 from 0[15,16,25:12]
+[1493719785885] left click on word 0.0.15 ('strong')
+[1493719785885] del 0.0.15 from 0[15,25:12]
+[1493719786597] left click on word 0.0.25 ('scotland')
+[1493719786597] del 0.0.25 from 0[25:12]
+[1493719788014] left click on word 0.0.23 ('hebrides')
+[1493719788014] del 0.0.23 from 0[18,19,20,21,23:2]
+[1493719788014] add 0.0.23 to 0[:12]
+[1493719788821] left click on word 0.0.18 ('isle')
+[1493719788821] del 0.0.18 from 0[18,19,20,21:2]
+[1493719788822] add 0.0.18 to 0[23:12]
+[1493719789749] left click on word 0.0.18 ('isle')
+[1493719789749] del 0.0.18 from 0[23,18:12]
+[1493719789750] add 0.0.18 to 0[19,20,21:2]
+[1493719790397] left click on word 0.0.19 ('of')
+[1493719790398] del 0.0.19 from 0[19,20,21,18:2]
+[1493719790398] add 0.0.19 to 0[23:12]
+[1493719791254] left click on word 0.0.18 ('isle')
+[1493719791254] del 0.0.18 from 0[20,21,18:2]
+[1493719791254] add 0.0.18 to 0[23,19:12]
+[1493719791638] left click on word 0.0.18 ('isle')
+[1493719791638] del 0.0.18 from 0[23,19,18:12]
+[1493719791638] add 0.0.18 to 0[20,21:2]
+[1493719792246] left click on word 0.0.18 ('isle')
+[1493719792246] del 0.0.18 from 0[20,21,18:2]
+[1493719792246] add 0.0.18 to 0[23,19:12]
+[1493719793197] left click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719793197] del 0.1.2 from 0[20,21:2]
+[1493719793198] add 0.1.2 to 0[23,19,18:12]
+[1493719793773] left click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719793773] del 0.1.2 from 0[23,19,18:12,2]
+[1493719793773] add 0.1.2 to 0[20,21:]
+[1493719794686] left click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719794686] del 0.1.2 from 0[20,21:2]
+[1493719794686] add 0.1.2 to 0[23,19,18:12]
+[1493719795142] left click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719795142] del 0.1.2 from 0[23,19,18:12,2]
+[1493719795142] add 0.1.2 to 0[20,21:]
+[1493719795949] left click on word 0.1.12 ('origin(scotland)')
+[1493719795950] del 0.1.12 from 0[23,19,18:12]
+[1493719797142] left click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719797142] del 0.1.2 from 0[20,21:2]
+[1493719797142] add 0.1.2 to 0[23,19,18:]
+[1493719797877] left click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719797877] del 0.1.2 from 0[23,19,18:2]
+[1493719797878] add 0.1.2 to 0[20,21:]
+[1493719798965] left click on word 0.0.20 ('lewis')
+[1493719798965] del 0.0.20 from 0[20,21:2]
+[1493719798966] add 0.0.20 to 0[23,19,18:]
+[1493719799757] left click on word 0.0.20 ('lewis')
+[1493719799757] del 0.0.20 from 0[23,19,18,20:]
+[1493719799758] add 0.0.20 to 0[21:2]
+[1493719800517] left click on word 0.0.19 ('of')
+[1493719800518] del 0.0.19 from 0[23,19,18:]
+[1493719800518] add 0.0.19 to 0[21,20:2]
+[1493719801030] left click on word 0.0.18 ('isle')
+[1493719801030] del 0.0.18 from 0[23,18:]
+[1493719801030] add 0.0.18 to 0[21,20,19:2]
+[1493719801526] left click on word 0.0.23 ('hebrides')
+[1493719801526] del 0.0.23 from 0[23:]
+[1493719801526] add 0.0.23 to 0[21,20,19,18:2]
+[1493719802638] left click on word 0.0.23 ('hebrides')
+[1493719802638] del 0.0.23 from 0[21,20,19,18,23:2]
+[1493719802638] add 0.0.23 to 0[:]
+[1493719803341] left click on word 0.0.23 ('hebrides')
+[1493719803341] del 0.0.23 from 0[23:]
+[1493719803341] add 0.0.23 to 0[21,20,19,18:2]
+[1493719804197] left click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719804197] del 0.1.2 from 0[21,20,19,18,23:2]
+[1493719804198] add 0.1.2 to 0[:]
+[1493719804485] left click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719804485] del 0.1.2 from 0[:2]
+[1493719804486] add 0.1.2 to 0[21,20,19,18,23:]
+[1493719805638] left click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719805638] del 0.1.2 from 0[21,20,19,18,23:2]
+[1493719805638] add 0.1.2 to 0[:]
+[1493719805837] left click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719805837] del 0.1.2 from 0[:2]
+[1493719805837] add 0.1.2 to 0[21,20,19,18,23:]
+[1493719806069] left click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719806069] del 0.1.2 from 0[21,20,19,18,23:2]
+[1493719806070] add 0.1.2 to 0[:]
+[1493719806813] right click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719807477] right click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719808342] del 0.1.2 from 0[:2]
+[1493719811486] left click on word 0.0.14 ('with')
+[1493719811486] new alignment group
+[1493719811486] add 0.0.14 to 0[:]
+[1493719812262] left click on word 0.0.15 ('strong')
+[1493719812262] add 0.0.15 to 0[14:]
+[1493719812790] left click on word 0.0.16 ('ties')
+[1493719812790] add 0.0.16 to 0[14,15:]
+[1493719813262] left click on word 0.0.17 ('to')
+[1493719813262] add 0.0.17 to 0[14,15,16:]
+[1493719813694] left click on word 0.0.18 ('isle')
+[1493719813694] del 0.0.18 from 0[21,20,19,18,23:]
+[1493719813694] add 0.0.18 to 0[14,15,16,17:]
+[1493719814197] left click on word 0.0.19 ('of')
+[1493719814198] del 0.0.19 from 0[21,20,19,23:]
+[1493719814198] add 0.0.19 to 0[14,15,16,17,18:]
+[1493719814605] left click on word 0.0.20 ('lewis')
+[1493719814605] del 0.0.20 from 0[21,20,23:]
+[1493719814606] add 0.0.20 to 0[14,15,16,17,18,19:]
+[1493719815206] left click on word 0.0.21 ('in')
+[1493719815206] del 0.0.21 from 0[21,23:]
+[1493719815206] add 0.0.21 to 0[14,15,16,17,18,19,20:]
+[1493719816006] left click on word 0.0.22 ('the')
+[1493719816006] add 0.0.22 to 0[14,15,16,17,18,19,20,21:]
+[1493719816422] left click on word 0.0.23 ('hebrides')
+[1493719816422] del 0.0.23 from 0[23:]
+[1493719816422] add 0.0.23 to 0[14,15,16,17,18,19,20,21,22:]
+[1493719817102] left click on word 0.0.24 (',')
+[1493719817102] add 0.0.24 to 0[14,15,16,17,18,19,20,21,22,23:]
+[1493719817558] left click on word 0.0.25 ('scotland')
+[1493719817558] add 0.0.25 to 0[14,15,16,17,18,19,20,21,22,23,24:]
+[1493719818478] left click on word 0.0.26 ('.')
+[1493719818478] add 0.0.26 to 0[14,15,16,17,18,19,20,21,22,23,24,25:]
+[1493719820022] left click on word 0.0.26 ('.')
+[1493719820022] del 0.0.26 from 0[14,15,16,17,18,19,20,21,22,23,24,25,26:]
+[1493719822222] left click on word 0.1.2 ('origin(lewis[settlement])')
+[1493719822222] add 0.1.2 to 0[14,15,16,17,18,19,20,21,22,23,24,25:]
+[1493719823998] left click on word 0.1.12 ('origin(scotland)')
+[1493719823998] add 0.1.12 to 0[14,15,16,17,18,19,20,21,22,23,24,25:2]
+[1493719825614] right click on word 0.1.12 ('origin(scotland)')
+[1493719826278] right click on word 0.1.12 ('origin(scotland)')
+[1493719827974] label 0[14,15,16,17,18,19,20,21,22,23,24,25:2,12] as possible
+[1493719842070] left click on word 0.0.0 ('astrid')
+[1493719842070] new alignment group
+[1493719842070] add 0.0.0 to 0[:]
+[1493719843166] left click on word 0.1.11 ('name(astrid)')
+[1493719843166] add 0.1.11 to 0[0:]
+[1493719843790] right click on word 0.1.11 ('name(astrid)')
+[1493719844278] right click on word 0.1.11 ('name(astrid)')
+[1493719845486] label 0[0:11] as sure
+[1493719860150] left click on word 0.0.1 ('were')
+[1493719860150] new alignment group
+[1493719860150] add 0.0.1 to 0[:]
+[1493719861038] left click on word 0.0.2 ('a')
+[1493719861038] add 0.0.2 to 0[1:]
+[1493719862302] left click on word 0.0.4 ('foursome')
+[1493719862302] add 0.0.4 to 0[1,2:]
+[1493719866006] left click on word 0.1.8 ('background(group_or_band)')
+[1493719866006] add 0.1.8 to 0[1,2,4:]
+[1493719866822] right click on word 0.1.8 ('background(group_or_band)')
+[1493719867199] right click on word 0.1.8 ('background(group_or_band)')
+[1493719868726] label 0[1,2,4:8] as possible
+[1493719874510] left click on word 0.0.3 ('guitar-pop')
+[1493719874510] new alignment group
+[1493719874510] add 0.0.3 to 0[:]
+[1493719875510] left click on word 0.1.3 ('genre(indie_pop[music_genre])')
+[1493719875510] add 0.1.3 to 0[3:]
+[1493719875966] right click on word 0.1.3 ('genre(indie_pop[music_genre])')
+[1493719876390] right click on word 0.1.3 ('genre(indie_pop[music_genre])')
+[1493719877526] label 0[3:3] as possible
+[1493719934934] left click on word 0.0.8 ('in')
+[1493719934934] new alignment group
+[1493719934934] add 0.0.8 to 0[:]
+[1493719936286] left click on word 0.0.9 ('the')
+[1493719936286] add 0.0.9 to 0[8:]
+[1493719936974] left click on word 0.0.10 ('mid')
+[1493719936974] add 0.0.10 to 0[8,9:]
+[1493719937550] left click on word 0.0.11 ('1990s')
+[1493719937550] add 0.0.11 to 0[8,9,10:]
+[1493719939350] left click on word 0.1.6 ('years_active(1997)')
+[1493719939350] add 0.1.6 to 0[8,9,10,11:]
+[1493719940022] right click on word 0.1.6 ('years_active(1997)')
+[1493719940446] right click on word 0.1.6 ('years_active(1997)')
+[1493719942742] label 0[8,9,10,11:6] as sure
+[1493720993609] left click on word 0.1.6 ('years_active(1997)')
+[1493720993609] edit 0[8,9,10,11:6]
+[1493720994193] right click on word 0.1.6 ('years_active(1997)')
+[1493720995248] right click on word 0.1.6 ('years_active(1997)')
+[1493720998457] label 0[8,9,10,11:6] as possible
+[1493721024985] left click on word 1.0.0 ('the')
+[1493721024985] new alignment group
+[1493721024985] add 1.0.0 to 1[:]
+[1493721025497] left click on word 1.0.1 ('group')
+[1493721025497] add 1.0.1 to 1[0:]
+[1493721026497] left click on word 1.1.8 ('background(group_or_band)')
+[1493721026497] add 1.1.8 to 1[0,1:]
+[1493721027241] right click on word 1.1.8 ('background(group_or_band)')
+[1493721027673] right click on word 1.1.8 ('background(group_or_band)')
+[1493721029210] label 1[0,1:8] as possible

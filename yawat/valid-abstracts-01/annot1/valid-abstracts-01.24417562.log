@@ -1,0 +1,119 @@
+[1493635324696] NEW SESSION
+[1493635342300] left click on word 0.0.0 ('kim')
+[1493635342300] new alignment group
+[1493635342301] add 0.0.0 to 0[:]
+[1493635342932] left click on word 0.0.1 ('kyu-hun')
+[1493635342932] add 0.0.1 to 0[0:]
+[1493635559703] left click on word 0.1.7 ('name(kim,_kyu-hun)')
+[1493635559703] add 0.1.7 to 0[0,1:]
+[1493635874011] cancel edit
+[1493635875291] left click on word 0.0.3 ('born')
+[1493635875292] new alignment group
+[1493635875292] add 0.0.3 to 0[:]
+[1493635876083] left click on word 0.0.4 ('october')
+[1493635876083] add 0.0.4 to 0[3:]
+[1493635876723] left click on word 0.0.5 ('17')
+[1493635876723] add 0.0.5 to 0[3,4:]
+[1493635878443] left click on word 0.0.6 (',')
+[1493635878443] add 0.0.6 to 0[3,4,5:]
+[1493635879307] left click on word 0.0.7 ('1982')
+[1493635879307] add 0.0.7 to 0[3,4,5,6:]
+[1493635880827] right click on word 0.1.5 ('birth_date(1982-10-17)')
+[1493635880827] add 0.1.5 to 0[3,4,5,6,7:]
+[1493635881667] right click on word 0.1.5 ('birth_date(1982-10-17)')
+[1493635883027] label 0[3,4,5,6,7:5] as sure
+[1493635886691] left click on word 0.0.0 ('kim')
+[1493635886691] new alignment group
+[1493635886691] add 0.0.0 to 0[:]
+[1493635887644] left click on word 0.0.1 ('kyu-hun')
+[1493635887644] add 0.0.1 to 0[0:]
+[1493635892795] right click on word 0.1.7 ('name(kim,_kyu-hun)')
+[1493635892795] add 0.1.7 to 0[0,1:]
+[1493635894548] right click on word 0.1.7 ('name(kim,_kyu-hun)')
+[1493635896147] label 0[0,1:7] as sure
+[1493635898563] left click on word 0.0.8 ('in')
+[1493635898564] new alignment group
+[1493635898564] add 0.0.8 to 0[:]
+[1493635899420] left click on word 0.0.9 ('seoul')
+[1493635899420] add 0.0.9 to 0[8:]
+[1493635912316] left click on word 0.1.2 ('birth_place(seoul[location])')
+[1493635912316] add 0.1.2 to 0[8,9:]
+[1493635914012] left click on word 0.1.3 ('birth_place(south_korea[location])')
+[1493635914012] add 0.1.3 to 0[8,9:2]
+[1493635914587] right click on word 0.1.3 ('birth_place(south_korea[location])')
+[1493635915684] right click on word 0.1.3 ('birth_place(south_korea[location])')
+[1493635917148] label 0[8,9:2,3] as possible
+[1493635939043] left click on word 0.0.13 ('korean')
+[1493635939043] new alignment group
+[1493635939044] add 0.0.13 to 0[:]
+[1493635939556] left click on word 0.0.14 ('professional')
+[1493635939556] add 0.0.14 to 0[13:]
+[1493635940204] left click on word 0.0.15 ('ice')
+[1493635940204] add 0.0.15 to 0[13,14:]
+[1493635941899] left click on word 0.0.16 ('hockey')
+[1493635941900] add 0.0.16 to 0[13,14,15:]
+[1493635943579] right click on word 0.1.1 ('short_description(south_korean_ice_hockey_player)')
+[1493635943580] add 0.1.1 to 0[13,14,15,16:]
+[1493635944163] right click on word 0.1.1 ('short_description(south_korean_ice_hockey_player)')
+[1493635945444] label 0[13,14,15,16:1] as possible
+[1493635946867] left click on word 0.0.17 ('center')
+[1493635946868] new alignment group
+[1493635946868] add 0.0.17 to 0[:]
+[1493635948188] right click on word 0.1.11 ('position(centre[wikicat_ice_hockey_positions])')
+[1493635948188] add 0.1.11 to 0[17:]
+[1493635948892] right click on word 0.1.11 ('position(centre[wikicat_ice_hockey_positions])')
+[1493635950140] label 0[17:11] as possible
+[1493635986748] left click on word 1.0.2 ('playing')
+[1493635986748] new alignment group
+[1493635986748] add 1.0.2 to 1[:]
+[1493635988604] left click on word 1.0.7 ('for')
+[1493635988604] add 1.0.7 to 1[2:]
+[1493635989044] left click on word 1.0.8 ('anyang')
+[1493635989044] add 1.0.8 to 1[2,7:]
+[1493635989524] left click on word 1.0.9 ('halla')
+[1493635989524] add 1.0.9 to 1[2,7,8:]
+[1493635994061] right click on word 1.1.6 ('team(anyang_halla[hockey_team])')
+[1493635994061] add 1.1.6 to 1[2,7,8,9:]
+[1493635994684] right click on word 1.1.6 ('team(anyang_halla[hockey_team])')
+[1493635996117] label 1[2,7,8,9:6] as sure
+[1493636008036] left click on word 2.0.1 ('previously')
+[1493636008036] new alignment group
+[1493636008037] add 2.0.1 to 2[:]
+[1493636008596] left click on word 2.0.2 ('played')
+[1493636008596] add 2.0.2 to 2[1:]
+[1493636010828] left click on word 2.0.5 ('for')
+[1493636010829] add 2.0.5 to 2[1,2:]
+[1493636011597] left click on word 2.0.6 ('high1')
+[1493636011597] add 2.0.6 to 2[1,2,5:]
+[1493636018325] right click on word 2.1.10 ('former_teams(high1[hockey_team])')
+[1493636018325] add 2.1.10 to 2[1,2,5,6:]
+[1493636019021] right click on word 2.1.10 ('former_teams(high1[hockey_team])')
+[1493636020397] label 2[1,2,5,6:10] as sure
+[1496072177805] NEW SESSION
+[1496072179714] left click on word 1.0.0 ('he')
+[1496072179714] new alignment group
+[1496072179714] add 1.0.0 to 1[:]
+[1496072180809] left click on word 1.0.0 ('he')
+[1496072180810] del 1.0.0 from 1[0:]
+[1496072182185] cancel edit
+[1496072186041] left click on word 1.0.0 ('he')
+[1496072186042] new alignment group
+[1496072186042] add 1.0.0 to 1[:]
+[1496072187322] right click on word 1.1.7 ('name(kim,_kyu-hun)')
+[1496072187322] add 1.1.7 to 1[0:]
+[1496072187945] right click on word 1.1.7 ('name(kim,_kyu-hun)')
+[1496072189370] label 1[0:7] as sure
+[1496072192041] left click on word 2.0.0 ('he')
+[1496072192042] new alignment group
+[1496072192042] add 2.0.0 to 2[:]
+[1496072193162] left click on word 2.1.7 ('name(kim,_kyu-hun)')
+[1496072193162] add 2.1.7 to 2[0:]
+[1496072193866] right click on word 2.1.7 ('name(kim,_kyu-hun)')
+[1496072194634] right click on word 2.1.7 ('name(kim,_kyu-hun)')
+[1496072195762] label 2[0:7] as sure
+[1496072202738] left click on word 1.0.0 ('he')
+[1496072202738] edit 1[0:7]
+[1496072204650] right click on word 1.0.4 ('his')
+[1496072204650] add 1.0.4 to 1[0:7]
+[1496072205378] right click on word 1.0.4 ('his')
+[1496072207010] label 1[0,4:7] as possible
