@@ -19,7 +19,7 @@ The base code for the encoder-decoder generation models is from [(Wiseman et al,
 
 ### Content Alignment Model
 
-Trained model can be downloaded from [here]().
+The pre-trained model can be downloaded from [here](https://drive.google.com/open?id=1jZcBloHi_CShyFSapYHauqVz8HT84vPT).
 
 To train the Content Alignment model:
 ```
