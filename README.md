@@ -9,8 +9,9 @@ For any inquiry contact me at *lperez (at) ed.ac.uk*
 
 Our dataset is compiled from the WikiBio dataset [(Lebret et al., 2016)](https://arxiv.org/abs/1603.07771). We use the entire abstracts and filter cases with too short/long abstracts and input property sets. The input property set is created from DBPedia. 
 
-The extended data-set can be downloaded from [here](). 
-The pre-processed dataset files to train and evaluate the models can be downloaded from [here]().
+The base WikiBio dataset can be found [here](https://github.com/DavidGrangier/wikipedia-biography-dataset).   
+The input property set extension of WikiBio can be downloaded from [here](https://drive.google.com/open?id=1jUbuyXe3R8tVQKKy5qCUh08nyBQIP3Dv).   
+The pre-processed dataset files to train and test the content alignment model can be downloaded from [here](https://drive.google.com/open?id=1K4IyxQDD7Ui8It8qvf5MV1pqZCwUZB1b).  
 
 ## Models
 The base code for the encoder-decoder generation models is from [(Wiseman et al, 2017)](https://arxiv.org/abs/1707.08052), based in turn on Torch7 OpenNMT. The base code for the Reinforcement Learning (RL) model is from [(Zhang and Lapata)](http://aclweb.org/anthology/D/D17/D17-1062.pdf).
@@ -18,15 +19,17 @@ The base code for the encoder-decoder generation models is from [(Wiseman et al,
 
 ### Content Alignment Model
 
+Trained model can be downloaded from [here]().
+
 To train the Content Alignment model:
 ```
 th train.lua -use_cuda \
--data_file PATHPREPROCFILES/dta-train.hdf5 \
--valid_data_file PATHPREPROCFILES/dta-valid.hdf5 \
--data_dict PATHPREPROCFILES/dta.dbp.dict \
--text_dict PATHPREPROCFILES/dta.text.dict \
--preembed_datavoc PATHPREPROCFILES/dta.dbp-glove.6B.200dembeddings.t7 \
--preembed_textvoc PATHPREPROCFILES/dta.text-glove.6B.200dembeddings.t7 \
+-data_file ../trained/input/dtaSDlx_LP-train.hdf5 \
+-valid_data_file ../trained/input/dtaSDlx_LP-valid.hdf5 \
+-data_dict ../trained/input/dtaSDlx_LP.dbp.dict \
+-text_dict ../trained/input/dtaSDlx_LP.text.dict \
+-preembed_datavoc ../trained/input/dtaSDlx_LP.dbp-glove.6B.200dembeddings.t7 \
+-preembed_textvoc ../trained/input/dtaSDlx_LP.text-glove.6B.200dembeddings.t7 \
 -preembed -rnn_size 200 -word_vec_size 200 \
 -optim adam -learning_rate 0.001 -max_batch_l 200 -min_batch_l 60 -epochs 20 \
 -dataEncoder 8 -textEncoder 1
@@ -37,22 +40,24 @@ We tried different variants of property set and sentence encoder, those set in -
 #### Evaluation
 ```
 train.lua -doeval -use_cuda \
--data_file PATHPREPROCFILES/dta-train.hdf5 \
--valid_data_file PATHPREPROCFILES/dta-valid.hdf5 \
--data_dict PATHPREPROCFILES/dta.dbp.dict \
--text_dict PATHPREPROCFILES/dta.text.dict \
--weights_file TRAINEDMODEL \
+-data_file ../trained/input/dtaSDlx_LP-train.hdf5 \
+-valid_data_file ../trained/input/dtaSDlx_LP-valid.hdf5 \
+-data_dict ../trained/input/dtaSDlx_LP.dbp.dict \
+-text_dict ../trained/input/dtaSDlx_LP.text.dict \
+-weights_file ../trained/m_8_1scorer_weights_Wed_Sep_27_16_50_03_2017.t7 \
 -max_batch_l 600 -rnn_size 200 -word_vec_size 200 -dataEncoder 8 -textEncoder 1 \
 -waEvaluationSet evaluation/yawat/exist_in_select_valid-01.txt \
--distractorSet  evaluation/valid-distrSet-dtaAbsS_aln_v4.dat
+-distractorSet  ../trained/input/dtaSDlx_LP-valid.distractors.dat
 ```
--waEvaluationSet provides the file with the gold manual alignments for f-score evaluation  
--distractorSet provides the set of 15 random distractors for each evaluated item. Note that if the argument -genNegValid is on the command line a new set of distractors will be generated and saved under that name.
+**-waEvaluationSet** provides the file with the gold manual alignments for f-score evaluation  
+**-distractorSet** provides the set of 15 random distractors for each evaluated item. Note that if **-genNegValid** is passed as argument (i.e. is true), a new set of distractors will be generated and saved under the name given by argument **-distractorSet**.
+
+The manual annotations for the word alignment measures where obtained with the Yawat tool [(Ulrich, 2008)](https://pdfs.semanticscholar.org/e747/f6af80421a278c9c6aeccb8abdf26445cb7f.pdf). If you want to look at the interface for annotations you can go here [Yawat Content Alignment](http://homepages.inf.ed.ac.uk/cgi/lperez/yawat-dta/cgi/yawat.cgi) (user=annotator1 pass=demo) .
 
 This evaluation will output (files will be saved in the folder trained/results/TRAINEDMODEL/):   
 - the ranking @15 score 
 - the threshold for alignment selection (both *Possible* and *Sure* values [(Cohn et al., 2008)](https://www.mitpressjournals.org/doi/pdf/10.1162/coli.08-003-R1-07-044))
-- it will also generate the alignment files to compute precision, recall and f-measure (next step Word Alignment Measures)
+- it will also generate the alignment files to compute precision, recall and f-measure (next step).
 
 
 ##### Word Alignment Measures
@@ -71,13 +76,14 @@ Save content alignment information for the training set (same command should be 
 
 ```
 th dtaFiltering.lua -fold valid \
--data_file ../../trained/input/dta-valid.hdf5 \
--data_dict ../../trained/input/dta.dbp.dict \
--text_dict ../../trained/input/dta.text.dict \
--weights_file ../../trained/MOEDEL  \
+-data_file ../../trained/input/dtaSDlx_LP-valid.hdf5 \
+-data_dict ../../trained/input/dtaSDlx_LP.dbp.dict \
+-text_dict ../../trained/input/dtaSDlx_LP.text.dict \
+-weights_file ../../trained/m_8_1scorer_weights_Wed_Sep_27_16_50_03_2017.t7 \
 -rnn_size 200 -word_vec_size 200 -dataEncoder 8 -textEncoder 1 -max_batch_l 200 -min_batch_l 200 \
--wsthreshold 0.488366 -proportion 0.6 
+-wsthreshold 0.215924 -proportion 0.6 
 ```
+
 
 
 ### Next sections and other stuff will be upload soon, please check again the repo for new things!
