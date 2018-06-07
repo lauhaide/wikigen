@@ -1,0 +1,159 @@
+[1493471245962] NEW SESSION
+[1493471250845] left click on word 0.0.0 ('richard')
+[1493471250846] new alignment group
+[1493471250846] add 0.0.0 to 0[:]
+[1493471251776] left click on word 0.0.1 ('patrick')
+[1493471251776] add 0.0.1 to 0[0:]
+[1493471252661] left click on word 0.0.2 ('mccormick')
+[1493471252661] add 0.0.2 to 0[0,1:]
+[1493471262716] left click on word 0.1.6 ('name(richard_patrick_mc_cormick)')
+[1493471262717] add 0.1.6 to 0[0,1,2:]
+[1493471263814] right click on word 0.1.6 ('name(richard_patrick_mc_cormick)')
+[1493471264521] right click on word 0.1.6 ('name(richard_patrick_mc_cormick)')
+[1493471266021] label 0[0,1,2:6] as sure
+[1493471268882] left click on word 0.0.4 ('december')
+[1493471268883] new alignment group
+[1493471268883] add 0.0.4 to 0[:]
+[1493471269704] left click on word 0.0.5 ('24')
+[1493471269705] add 0.0.5 to 0[4:]
+[1493471270502] left click on word 0.0.6 (',')
+[1493471270502] add 0.0.6 to 0[4,5:]
+[1493471271839] left click on word 0.0.7 ('1916')
+[1493471271840] add 0.0.7 to 0[4,5,6:]
+[1493471273707] left click on word 0.1.1 ('birth_date(1916-12-24)')
+[1493471273707] add 0.1.1 to 0[4,5,6,7:]
+[1493471274406] right click on word 0.1.1 ('birth_date(1916-12-24)')
+[1493471274935] right click on word 0.1.1 ('birth_date(1916-12-24)')
+[1493471277009] label 0[4,5,6,7:1] as sure
+[1493471288096] left click on word 0.1.3 ('death_date(2006-01-16)')
+[1493471288096] new alignment group
+[1493471288096] add 0.1.3 to 0[:]
+[1493471289360] left click on word 0.1.4 ('date_of_death(2006-01-16)')
+[1493471289360] add 0.1.4 to 0[:3]
+[1493471290453] left click on word 0.1.4 ('date_of_death(2006-01-16)')
+[1493471290453] del 0.1.4 from 0[:3,4]
+[1493471291116] left click on word 0.1.4 ('date_of_death(2006-01-16)')
+[1493471291116] add 0.1.4 to 0[:3]
+[1493471294345] left click on word 0.0.4 ('december')
+[1493471294346] del 0.0.4 from 0[4,5,6,7:1]
+[1493471294347] add 0.0.4 to 0[:3,4]
+[1493471295991] left click on word 0.0.9 ('january')
+[1493471295992] add 0.0.9 to 0[4:3,4]
+[1493471296948] left click on word 0.0.4 ('december')
+[1493471296948] del 0.0.4 from 0[4,9:3,4]
+[1493471296948] add 0.0.4 to 0[5,6,7:1]
+[1493471298729] left click on word 0.0.10 ('16')
+[1493471298729] add 0.0.10 to 0[9:3,4]
+[1493471299465] left click on word 0.0.11 (',')
+[1493471299465] add 0.0.11 to 0[9,10:3,4]
+[1493471300373] left click on word 0.0.12 ('2006')
+[1493471300373] add 0.0.12 to 0[9,10,11:3,4]
+[1493471302351] right click on word 0.0.12 ('2006')
+[1493471303098] right click on word 0.0.12 ('2006')
+[1493471304597] label 0[9,10,11,12:3,4] as sure
+[1493718497162] NEW SESSION
+[1493718529179] left click on word 0.0.14 ('was')
+[1493718529179] new alignment group
+[1493718529179] add 0.0.14 to 0[:]
+[1493718529890] left click on word 0.0.15 ('a')
+[1493718529890] add 0.0.15 to 0[14:]
+[1493718530618] left click on word 0.0.16 ('historian')
+[1493718530619] add 0.0.16 to 0[14,15:]
+[1493718531834] left click on word 0.1.8 ('occupation(historian[thing])')
+[1493718531834] add 0.1.8 to 0[14,15,16:]
+[1493718532299] right click on word 0.1.8 ('occupation(historian[thing])')
+[1493718532739] right click on word 0.1.8 ('occupation(historian[thing])')
+[1493718534042] label 0[14,15,16:8] as sure
+[1493718579067] left click on word 1.0.0 ('dr.')
+[1493718579067] new alignment group
+[1493718579067] add 1.0.0 to 1[:]
+[1493718579522] left click on word 1.0.1 ('mccormick')
+[1493718579522] add 1.0.1 to 1[0:]
+[1493718580403] left click on word 1.1.5 ('name(mc_cormick,_richard_patrick)')
+[1493718580403] add 1.1.5 to 1[0,1:]
+[1493718580915] left click on word 1.1.6 ('name(richard_patrick_mc_cormick)')
+[1493718580915] add 1.1.6 to 1[0,1:5]
+[1493718581371] right click on word 1.1.6 ('name(richard_patrick_mc_cormick)')
+[1493718581747] right click on word 1.1.6 ('name(richard_patrick_mc_cormick)')
+[1493718583122] label 1[0,1:5,6] as possible
+[1493718605754] left click on word 1.0.6 ('his')
+[1493718605755] new alignment group
+[1493718605755] add 1.0.6 to 1[:]
+[1493718606418] left click on word 1.0.7 ('expertise')
+[1493718606418] add 1.0.7 to 1[6:]
+[1493718607235] left click on word 1.0.8 ('in')
+[1493718607235] add 1.0.8 to 1[6,7:]
+[1493718607867] left click on word 1.0.9 ('new')
+[1493718607867] add 1.0.9 to 1[6,7,8:]
+[1493718608699] left click on word 1.0.10 ('jersey')
+[1493718608699] add 1.0.10 to 1[6,7,8,9:]
+[1493718609258] left click on word 1.0.11 ('and')
+[1493718609258] add 1.0.11 to 1[6,7,8,9,10:]
+[1493718609779] left click on word 1.0.12 ('early')
+[1493718609779] add 1.0.12 to 1[6,7,8,9,10,11:]
+[1493718610378] left click on word 1.0.13 ('american')
+[1493718610379] add 1.0.13 to 1[6,7,8,9,10,11,12:]
+[1493718610850] left click on word 1.0.14 ('political')
+[1493718610851] add 1.0.14 to 1[6,7,8,9,10,11,12,13:]
+[1493718611442] left click on word 1.0.15 ('history')
+[1493718611443] add 1.0.15 to 1[6,7,8,9,10,11,12,13,14:]
+[1493718612506] left click on word 1.1.0 ('short_description(american_historian)')
+[1493718612506] add 1.1.0 to 1[6,7,8,9,10,11,12,13,14,15:]
+[1493718613426] right click on word 1.1.0 ('short_description(american_historian)')
+[1493718614186] right click on word 1.1.0 ('short_description(american_historian)')
+[1493718617163] right click on word 1.1.0 ('short_description(american_historian)')
+[1493718618467] label 1[6,7,8,9,10,11,12,13,14,15:0] as possible
+[1493718622834] left click on word 1.0.0 ('dr.')
+[1493718622834] edit 1[0,1:5,6]
+[1493718625755] left click on word 1.0.0 ('dr.')
+[1493718625756] del 1.0.0 from 1[0,1:5,6]
+[1493718626235] right click on word 1.0.0 ('dr.')
+[1493718626235] add 1.0.0 to 1[1:5,6]
+[1493718627579] left click on word 1.0.0 ('dr.')
+[1493718627579] edit 1[1,0:5,6]
+[1493718628595] left click on word 1.0.0 ('dr.')
+[1493718628595] del 1.0.0 from 1[1,0:5,6]
+[1493718629084] left click on word 1.0.1 ('mccormick')
+[1493718629084] del 1.0.1 from 1[1:5,6]
+[1493718630226] left click on word 1.1.5 ('name(mc_cormick,_richard_patrick)')
+[1493718630226] del 1.1.5 from 1[:5,6]
+[1493718630986] left click on word 1.1.6 ('name(richard_patrick_mc_cormick)')
+[1493718630987] del 1.1.6 from 1[:6]
+[1493718632163] left click on word 1.0.0 ('dr.')
+[1493718632163] add 1.0.0 to 1[:]
+[1493718632714] left click on word 1.0.1 ('mccormick')
+[1493718632714] add 1.0.1 to 1[0:]
+[1493718633507] left click on word 1.1.5 ('name(mc_cormick,_richard_patrick)')
+[1493718633507] add 1.1.5 to 1[0,1:]
+[1493718634147] left click on word 1.1.6 ('name(richard_patrick_mc_cormick)')
+[1493718634147] add 1.1.6 to 1[0,1:5]
+[1493718634667] right click on word 1.1.6 ('name(richard_patrick_mc_cormick)')
+[1493718635179] right click on word 1.1.6 ('name(richard_patrick_mc_cormick)')
+[1493718636411] label 1[0,1:5,6] as possible
+[1496054218370] NEW SESSION
+[1496054222089] left click on word 0.1.5 ('name(mc_cormick,_richard_patrick)')
+[1496054222090] new alignment group
+[1496054222090] add 0.1.5 to 0[:]
+[1496054222841] left click on word 0.1.6 ('name(richard_patrick_mc_cormick)')
+[1496054222841] del 0.1.6 from 0[0,1,2:6]
+[1496054222842] add 0.1.6 to 0[:5]
+[1496054223985] left click on word 0.0.2 ('mccormick')
+[1496054223985] del 0.0.2 from 0[0,1,2:]
+[1496054223986] add 0.0.2 to 0[:5,6]
+[1496054224473] left click on word 0.0.1 ('patrick')
+[1496054224473] del 0.0.1 from 0[0,1:]
+[1496054224474] add 0.0.1 to 0[2:5,6]
+[1496054224953] left click on word 0.0.0 ('richard')
+[1496054224954] del 0.0.0 from 0[0:]
+[1496054224954] add 0.0.0 to 0[2,1:5,6]
+[1496054225378] right click on word 0.0.0 ('richard')
+[1496054225658] right click on word 0.0.0 ('richard')
+[1496054226874] label 0[2,1,0:5,6] as sure
+[1496054275889] left click on word 1.0.6 ('his')
+[1496054275890] edit 1[6,7,8,9,10,11,12,13,14,15:0]
+[1496054276489] left click on word 1.0.6 ('his')
+[1496054276489] del 1.0.6 from 1[6,7,8,9,10,11,12,13,14,15:0]
+[1496054277353] right click on word 1.0.6 ('his')
+[1496054277353] add 1.0.6 to 1[7,8,9,10,11,12,13,14,15:0]
+[1496054277985] right click on word 1.0.6 ('his')
+[1496054278785] del 1.0.6 from 1[7,8,9,10,11,12,13,14,15,6:0]

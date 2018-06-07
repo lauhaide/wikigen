@@ -1,0 +1,140 @@
+[1493722209921] NEW SESSION
+[1493722220484] left click on word 0.0.1 ('władysław')
+[1493722220485] new alignment group
+[1493722220485] add 0.0.1 to 0[:]
+[1493722221052] left click on word 0.0.2 ('krasiński')
+[1493722221052] add 0.0.2 to 0[1:]
+[1493722222164] right click on word 0.1.3 ('name(władysław_krasiński)')
+[1493722222165] add 0.1.3 to 0[1,2:]
+[1493722222748] right click on word 0.1.3 ('name(władysław_krasiński)')
+[1493722224116] label 0[1,2:3] as sure
+[1493722226316] left click on word 0.0.4 ('1844-1873')
+[1493722226316] new alignment group
+[1493722226316] add 0.0.4 to 0[:]
+[1493722229100] right click on word 0.1.4 ('birth_date(1844-09-27)')
+[1493722229100] add 0.1.4 to 0[4:]
+[1493722230036] right click on word 0.1.5 ('death_date(1873-02-06)')
+[1493722233324] left click on word 0.0.4 ('1844-1873')
+[1493722233324] edit 0[4:4]
+[1493722234584] left click on word 0.1.5 ('death_date(1873-02-06)')
+[1493722234584] add 0.1.5 to 0[4:4]
+[1493722235412] right click on word 0.1.5 ('death_date(1873-02-06)')
+[1493722235988] right click on word 0.1.5 ('death_date(1873-02-06)')
+[1493722238708] label 0[4:4,5] as sure
+[1493722244188] left click on word 0.0.8 ('polish')
+[1493722244188] new alignment group
+[1493722244188] add 0.0.8 to 0[:]
+[1493722244876] left click on word 0.1.2 ('birth_place(warsaw[location])')
+[1493722244876] add 0.1.2 to 0[8:]
+[1493722245412] right click on word 0.1.2 ('birth_place(warsaw[location])')
+[1493722245740] right click on word 0.1.2 ('birth_place(warsaw[location])')
+[1493722247476] label 0[8:2] as possible
+[1493722251012] left click on word 0.0.0 ('count')
+[1493722251012] new alignment group
+[1493722251012] add 0.0.0 to 0[:]
+[1493722257396] left click on word 0.0.0 ('count')
+[1493722257396] del 0.0.0 from 0[0:]
+[1493722259788] left click on word 0.0.0 ('count')
+[1493722259788] add 0.0.0 to 0[:]
+[1493722260452] left click on word 0.0.0 ('count')
+[1493722260452] del 0.0.0 from 0[0:]
+[1493722262492] left click on word 0.0.0 ('count')
+[1493722262492] add 0.0.0 to 0[:]
+[1493722263620] cancel edit
+[1493722293636] left click on word 2.0.0 ('he')
+[1493722293636] new alignment group
+[1493722293636] add 2.0.0 to 2[:]
+[1493722294316] left click on word 2.0.1 ('was')
+[1493722294316] add 2.0.1 to 2[0:]
+[1493722294972] left click on word 2.0.2 ('son')
+[1493722294972] add 2.0.2 to 2[0,1:]
+[1493722295796] left click on word 2.0.3 ('of')
+[1493722295796] add 2.0.3 to 2[0,1,2:]
+[1493722296380] left click on word 2.0.4 ('one')
+[1493722296380] add 2.0.4 to 2[0,1,2,3:]
+[1493722296900] cancel edit
+[1493722298164] left click on word 2.0.0 ('he')
+[1493722298164] new alignment group
+[1493722298164] add 2.0.0 to 2[:]
+[1493722298684] left click on word 2.0.1 ('was')
+[1493722298684] add 2.0.1 to 2[0:]
+[1493722299220] left click on word 2.0.2 ('son')
+[1493722299220] add 2.0.2 to 2[0,1:]
+[1493722299972] left click on word 2.0.3 ('of')
+[1493722299972] add 2.0.3 to 2[0,1,2:]
+[1493722300580] left click on word 2.0.4 ('one')
+[1493722300580] add 2.0.4 to 2[0,1,2,3:]
+[1493722301348] left click on word 2.0.5 ('of')
+[1493722301348] add 2.0.5 to 2[0,1,2,3,4:]
+[1493722302524] left click on word 2.0.6 ('poland')
+[1493722302524] add 2.0.6 to 2[0,1,2,3,4,5:]
+[1493722304732] left click on word 2.0.7 (''s')
+[1493722304732] add 2.0.7 to 2[0,1,2,3,4,5,6:]
+[1493722305980] left click on word 2.0.8 ('greatest')
+[1493722305980] add 2.0.8 to 2[0,1,2,3,4,5,6,7:]
+[1493722306548] left click on word 2.0.9 ('romantic')
+[1493722306548] add 2.0.9 to 2[0,1,2,3,4,5,6,7,8:]
+[1493722307061] left click on word 2.0.10 ('poets')
+[1493722307061] add 2.0.10 to 2[0,1,2,3,4,5,6,7,8,9:]
+[1493722307580] left click on word 2.0.11 ('zygmunt')
+[1493722307580] add 2.0.11 to 2[0,1,2,3,4,5,6,7,8,9,10:]
+[1493722308092] left click on word 2.0.12 ('krasiński')
+[1493722308092] add 2.0.12 to 2[0,1,2,3,4,5,6,7,8,9,10,11:]
+[1493722309092] right click on word 2.1.1 ('father(zygmunt_krasiński[noble])')
+[1493722309092] add 2.1.1 to 2[0,1,2,3,4,5,6,7,8,9,10,11,12:]
+[1493722309724] right click on word 2.1.1 ('father(zygmunt_krasiński[noble])')
+[1493722310892] label 2[0,1,2,3,4,5,6,7,8,9,10,11,12:1] as possible
+[1493722314540] left click on word 3.0.0 ('he')
+[1493722314540] new alignment group
+[1493722314540] add 3.0.0 to 3[:]
+[1493722315204] left click on word 3.0.1 ('was')
+[1493722315204] add 3.0.1 to 3[0:]
+[1493722315708] left click on word 3.0.2 ('married')
+[1493722315708] add 3.0.2 to 3[0,1:]
+[1493722316620] left click on word 3.0.3 ('to')
+[1493722316620] add 3.0.3 to 3[0,1,2:]
+[1493722317100] left click on word 3.0.4 ('r�ża')
+[1493722317100] add 3.0.4 to 3[0,1,2,3:]
+[1493722317620] left click on word 3.0.5 ('potocka')
+[1493722317620] add 3.0.5 to 3[0,1,2,3,4:]
+[1493722318980] right click on word 3.1.0 ('spouse(r�ża_potocka[noble])')
+[1493722318980] add 3.1.0 to 3[0,1,2,3,4,5:]
+[1493722319460] right click on word 3.1.0 ('spouse(r�ża_potocka[noble])')
+[1493722321812] label 3[0,1,2,3,4,5:0] as sure
+[1496050571588] NEW SESSION
+[1496050587096] left click on word 0.0.9 ('nobleman')
+[1496050587096] new alignment group
+[1496050587096] add 0.0.9 to 0[:]
+[1496050588239] left click on word 0.1.1 ('father(zygmunt_krasiński[noble])')
+[1496050588239] add 0.1.1 to 0[9:]
+[1496050588807] right click on word 0.1.1 ('father(zygmunt_krasiński[noble])')
+[1496050589175] right click on word 0.1.1 ('father(zygmunt_krasiński[noble])')
+[1496050590368] label 0[9:1] as possible
+[1496050592735] left click on word 1.0.0 ('władysław')
+[1496050592735] new alignment group
+[1496050592736] add 1.0.0 to 1[:]
+[1496050594640] left click on word 1.1.3 ('name(władysław_krasiński)')
+[1496050594640] add 1.1.3 to 1[0:]
+[1496050595199] right click on word 1.1.3 ('name(władysław_krasiński)')
+[1496050595527] right click on word 1.1.3 ('name(władysław_krasiński)')
+[1496050596775] label 1[0:3] as sure
+[1496050602488] right click on word 2.0.0 ('he')
+[1496050603263] del 2.0.0 from 2[0,1,2,3,4,5,6,7,8,9,10,11,12:1]
+[1496050603839] left click on word 2.0.0 ('he')
+[1496050603840] new alignment group
+[1496050603840] add 2.0.0 to 2[:]
+[1496050606112] left click on word 2.1.3 ('name(władysław_krasiński)')
+[1496050606112] add 2.1.3 to 2[0:]
+[1496050606583] right click on word 2.1.3 ('name(władysław_krasiński)')
+[1496050606855] right click on word 2.1.3 ('name(władysław_krasiński)')
+[1496050608135] label 2[0:3] as sure
+[1496050621247] right click on word 3.0.0 ('he')
+[1496050622111] del 3.0.0 from 3[0,1,2,3,4,5:0]
+[1496050622647] left click on word 3.0.0 ('he')
+[1496050622647] new alignment group
+[1496050622647] add 3.0.0 to 3[:]
+[1496050623927] left click on word 3.1.1 ('father(zygmunt_krasiński[noble])')
+[1496050623927] add 3.1.1 to 3[0:]
+[1496050624400] right click on word 3.1.1 ('father(zygmunt_krasiński[noble])')
+[1496050624655] right click on word 3.1.1 ('father(zygmunt_krasiński[noble])')
+[1496050625751] label 3[0:1] as sure

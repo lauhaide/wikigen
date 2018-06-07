@@ -1,0 +1,99 @@
+[1493118969613] NEW SESSION
+[1493119007195] left click on word 0.0.0 ('johann')
+[1493119007195] new alignment group
+[1493119007195] add 0.0.0 to 0[:]
+[1493119007818] left click on word 0.0.1 ('christian')
+[1493119007818] add 0.0.1 to 0[0:]
+[1493119008602] left click on word 0.0.2 ('friedrich')
+[1493119008603] add 0.0.2 to 0[0,1:]
+[1493119009138] left click on word 0.0.3 ('hölderlin')
+[1493119009138] add 0.0.3 to 0[0,1,2:]
+[1493119009770] left click on word 0.1.0 ('name(friedrich_hölderlin)')
+[1493119009770] add 0.1.0 to 0[0,1,2,3:]
+[1493119010307] right click on word 0.1.0 ('name(friedrich_hölderlin)')
+[1493119010946] right click on word 0.1.0 ('name(friedrich_hölderlin)')
+[1493119012250] label 0[0,1,2,3:0] as sure
+[1493119013731] left click on word 0.0.0 ('johann')
+[1493119013731] edit 0[0,1,2,3:0]
+[1493119021282] left click on word 0.0.6 ('20')
+[1493119021282] add 0.0.6 to 0[0,1,2,3:0]
+[1493119021874] left click on word 0.0.7 ('march')
+[1493119021874] add 0.0.7 to 0[0,1,2,3,6:0]
+[1493119022554] left click on word 0.0.8 ('1770')
+[1493119022554] add 0.0.8 to 0[0,1,2,3,6,7:0]
+[1493119024266] left click on word 0.1.13 ('birth_date(1770-03-20)')
+[1493119024266] add 0.1.13 to 0[0,1,2,3,6,7,8:0]
+[1493119024698] right click on word 0.1.13 ('birth_date(1770-03-20)')
+[1493119025026] right click on word 0.1.13 ('birth_date(1770-03-20)')
+[1493119026034] label 0[0,1,2,3,6,7,8:0,13] as sure
+[1493119028386] left click on word 0.0.10 ('7')
+[1493119028387] new alignment group
+[1493119028387] add 0.0.10 to 0[:]
+[1493119028882] left click on word 0.0.11 ('june')
+[1493119028883] add 0.0.11 to 0[10:]
+[1493119029570] left click on word 0.0.12 ('1843')
+[1493119029570] add 0.0.12 to 0[10,11:]
+[1493119030914] left click on word 0.1.15 ('death_date(1843-06-07)')
+[1493119030914] add 0.1.15 to 0[10,11,12:]
+[1493119031410] right click on word 0.1.15 ('death_date(1843-06-07)')
+[1493119031834] right click on word 0.1.15 ('death_date(1843-06-07)')
+[1493119033179] label 0[10,11,12:15] as sure
+[1493119076754] left click on word 0.1.16 ('influenced(georg_wilhelm_friedrich_hegel[philosopher])')
+[1493119076754] new alignment group
+[1493119076755] add 0.1.16 to 0[:]
+[1493119080090] left click on word 0.1.16 ('influenced(georg_wilhelm_friedrich_hegel[philosopher])')
+[1493119080090] del 0.1.16 from 0[:16]
+[1493119096594] cancel edit
+[1493119097506] left click on word 1.0.20 ('influence')
+[1493119097506] new alignment group
+[1493119097506] add 1.0.20 to 1[:]
+[1493119098090] left click on word 1.0.19 ('philosophical')
+[1493119098090] add 1.0.19 to 1[20:]
+[1493119098978] left click on word 1.0.21 ('on')
+[1493119098978] add 1.0.21 to 1[20,19:]
+[1493119099658] left click on word 1.0.22 ('his')
+[1493119099658] add 1.0.22 to 1[20,19,21:]
+[1493119105426] left click on word 1.0.22 ('his')
+[1493119105426] del 1.0.22 from 1[20,19,21,22:]
+[1493119109946] left click on word 1.0.28 ('georg')
+[1493119109946] add 1.0.28 to 1[20,19,21:]
+[1493119110978] left click on word 1.0.29 ('wilhelm')
+[1493119110978] add 1.0.29 to 1[20,19,21,28:]
+[1493119111714] left click on word 1.0.30 ('friedrich')
+[1493119111714] add 1.0.30 to 1[20,19,21,28,29:]
+[1493119113243] left click on word 1.0.31 ('hegel')
+[1493119113243] add 1.0.31 to 1[20,19,21,28,29,30:]
+[1493119124226] left click on word 1.1.16 ('influenced(georg_wilhelm_friedrich_hegel[philosopher])')
+[1493119124226] add 1.1.16 to 1[20,19,21,28,29,30,31:]
+[1493119125170] right click on word 1.1.16 ('influenced(georg_wilhelm_friedrich_hegel[philosopher])')
+[1493119125667] right click on word 1.1.16 ('influenced(georg_wilhelm_friedrich_hegel[philosopher])')
+[1493119126947] label 1[20,19,21,28,29,30,31:16] as sure
+[1493119129090] left click on word 1.0.33 ('friedrich')
+[1493119129090] new alignment group
+[1493119129091] add 1.0.33 to 1[:]
+[1493119129730] left click on word 1.0.34 ('wilhelm')
+[1493119129730] add 1.0.34 to 1[33:]
+[1493119130290] left click on word 1.0.35 ('joseph')
+[1493119130290] add 1.0.35 to 1[33,34:]
+[1493119130794] left click on word 1.0.36 ('schelling')
+[1493119130794] add 1.0.36 to 1[33,34,35:]
+[1493119151138] left click on word 1.0.35 ('joseph')
+[1493119151139] del 1.0.35 from 1[33,34,35,36:]
+[1493119151811] left click on word 1.0.33 ('friedrich')
+[1493119151811] del 1.0.33 from 1[33,34,36:]
+[1493119152354] left click on word 1.0.34 ('wilhelm')
+[1493119152355] del 1.0.34 from 1[34,36:]
+[1493119152898] left click on word 1.0.36 ('schelling')
+[1493119152898] del 1.0.36 from 1[36:]
+[1493119156187] left click on word 1.0.36 ('schelling')
+[1493119156187] add 1.0.36 to 1[:]
+[1493119157035] cancel edit
+[1496049793751] NEW SESSION
+[1496049838615] left click on word 1.0.0 ('hölderlin')
+[1496049838615] new alignment group
+[1496049838615] add 1.0.0 to 1[:]
+[1496049839534] left click on word 1.1.0 ('name(friedrich_hölderlin)')
+[1496049839534] add 1.1.0 to 1[0:]
+[1496049840182] right click on word 1.1.0 ('name(friedrich_hölderlin)')
+[1496049840654] right click on word 1.1.0 ('name(friedrich_hölderlin)')
+[1496049841783] label 1[0:0] as sure

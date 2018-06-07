@@ -1,0 +1,358 @@
+[1493722424253] NEW SESSION
+[1493722430933] left click on word 0.0.0 ('sayyid')
+[1493722430933] new alignment group
+[1493722430933] add 0.0.0 to 0[:]
+[1493722431692] cancel edit
+[1493722432620] left click on word 0.0.0 ('sayyid')
+[1493722432620] new alignment group
+[1493722432620] add 0.0.0 to 0[:]
+[1493722433076] left click on word 0.0.1 ('babar')
+[1493722433076] add 0.0.1 to 0[0:]
+[1493722433516] left click on word 0.0.2 ('ali')
+[1493722433517] add 0.0.2 to 0[0,1:]
+[1493722433980] left click on word 0.0.3 ('khan')
+[1493722433980] add 0.0.3 to 0[0,1,2:]
+[1493722434908] left click on word 0.0.4 ('bahadur')
+[1493722434908] add 0.0.4 to 0[0,1,2,3:]
+[1493722435580] left click on word 0.1.0 ('name(babar_ali_khan_bahadur)')
+[1493722435580] add 0.1.0 to 0[0,1,2,3,4:]
+[1493722436172] right click on word 0.1.0 ('name(babar_ali_khan_bahadur)')
+[1493722436644] right click on word 0.1.0 ('name(babar_ali_khan_bahadur)')
+[1493722438237] label 0[0,1,2,3,4:0] as sure
+[1493722440956] left click on word 0.0.7 ('april')
+[1493722440956] new alignment group
+[1493722440957] add 0.0.7 to 0[:]
+[1493722442188] left click on word 0.0.8 ('28')
+[1493722442188] add 0.0.8 to 0[7:]
+[1493722443988] left click on word 0.0.6 ('d.')
+[1493722443988] add 0.0.6 to 0[7,8:]
+[1493722448037] right click on word 0.1.4 ('date_of_death(1810-04-28)')
+[1493722448037] add 0.1.4 to 0[7,8,6:]
+[1493722448653] left click on word 0.1.4 ('date_of_death(1810-04-28)')
+[1493722448653] edit 0[7,8,6:4]
+[1493722451172] cancel edit
+[1493722451820] left click on word 0.0.9 (',')
+[1493722451820] new alignment group
+[1493722451820] add 0.0.9 to 0[:]
+[1493722452532] left click on word 0.0.6 ('d.')
+[1493722452533] del 0.0.6 from 0[7,8,6:4]
+[1493722452533] add 0.0.6 to 0[9:]
+[1493722453436] left click on word 0.0.7 ('april')
+[1493722453436] del 0.0.7 from 0[7,8:4]
+[1493722453436] add 0.0.7 to 0[9,6:]
+[1493722454133] left click on word 0.0.8 ('28')
+[1493722454133] del 0.0.8 from 0[8:4]
+[1493722454134] add 0.0.8 to 0[9,6,7:]
+[1493722454684] left click on word 0.0.9 (',')
+[1493722454684] del 0.0.9 from 0[9,6,7,8:]
+[1493722455220] left click on word 0.0.9 (',')
+[1493722455220] add 0.0.9 to 0[6,7,8:]
+[1493722456157] left click on word 0.0.10 ('1810')
+[1493722456157] add 0.0.10 to 0[6,7,8,9:]
+[1493722457740] right click on word 0.1.4 ('date_of_death(1810-04-28)')
+[1493722457741] del 0.1.4 from 0[:4]
+[1493722457741] add 0.1.4 to 0[6,7,8,9,10:]
+[1493722458341] right click on word 0.1.4 ('date_of_death(1810-04-28)')
+[1493722459997] label 0[6,7,8,9,10:4] as sure
+[1493722463740] left click on word 0.0.12 ('was')
+[1493722463740] new alignment group
+[1493722463741] add 0.0.12 to 0[:]
+[1493722464484] left click on word 0.0.13 ('the')
+[1493722464485] add 0.0.13 to 0[12:]
+[1493722465308] left click on word 0.0.14 ('nawab')
+[1493722465308] add 0.0.14 to 0[12,13:]
+[1493722466892] left click on word 0.0.15 ('of')
+[1493722466892] add 0.0.15 to 0[12,13,14:]
+[1493722467396] left click on word 0.0.16 ('bengal')
+[1493722467396] add 0.0.16 to 0[12,13,14,15:]
+[1493722467981] left click on word 0.0.17 (',')
+[1493722467981] add 0.0.17 to 0[12,13,14,15,16:]
+[1493722468508] left click on word 0.0.18 ('bihar')
+[1493722468508] add 0.0.18 to 0[12,13,14,15,16,17:]
+[1493722469124] left click on word 0.0.19 ('and')
+[1493722469124] add 0.0.19 to 0[12,13,14,15,16,17,18:]
+[1493722469780] left click on word 0.0.20 ('orissa')
+[1493722469780] add 0.0.20 to 0[12,13,14,15,16,17,18,19:]
+[1493722470412] left click on word 0.1.3 ('title(nawab_nazim_of_bengal,_bihar_and_orissa)')
+[1493722470413] add 0.1.3 to 0[12,13,14,15,16,17,18,19,20:]
+[1493722470972] right click on word 0.1.3 ('title(nawab_nazim_of_bengal,_bihar_and_orissa)')
+[1493722471388] right click on word 0.1.3 ('title(nawab_nazim_of_bengal,_bihar_and_orissa)')
+[1493722472572] label 0[12,13,14,15,16,17,18,19,20:3] as sure
+[1493722487892] left click on word 1.0.13 ('his')
+[1493722487893] new alignment group
+[1493722487893] add 1.0.13 to 1[:]
+[1493722488956] left click on word 1.0.14 ('father')
+[1493722488957] add 1.0.14 to 1[13:]
+[1493722489757] left click on word 1.0.16 ('ashraf')
+[1493722489757] add 1.0.16 to 1[13,14:]
+[1493722490573] left click on word 1.0.17 ('ali')
+[1493722490573] add 1.0.17 to 1[13,14,16:]
+[1493722491236] left click on word 1.0.18 ('khan')
+[1493722491236] add 1.0.18 to 1[13,14,16,17:]
+[1493722494620] right click on word 1.1.10 ('father(ashraf_ali_khan[monarch])')
+[1493722494620] add 1.1.10 to 1[13,14,16,17,18:]
+[1493722495356] right click on word 1.1.10 ('father(ashraf_ali_khan[monarch])')
+[1493722497029] label 1[13,14,16,17,18:10] as sure
+[1493722504797] right click on word 1.0.19 ('died')
+[1493722506396] left click on word 1.0.19 ('died')
+[1493722506396] new alignment group
+[1493722506396] add 1.0.19 to 1[:]
+[1493722506837] left click on word 1.0.19 ('died')
+[1493722506837] del 1.0.19 from 1[19:]
+[1493722507397] left click on word 1.0.19 ('died')
+[1493722507397] add 1.0.19 to 1[:]
+[1493722507932] left click on word 1.0.20 ('on')
+[1493722507933] add 1.0.20 to 1[19:]
+[1493722508493] left click on word 1.0.21 ('september')
+[1493722508493] add 1.0.21 to 1[19,20:]
+[1493722509012] left click on word 1.0.22 ('6')
+[1493722509012] add 1.0.22 to 1[19,20,21:]
+[1493722510021] left click on word 1.0.23 (',')
+[1493722510021] add 1.0.23 to 1[19,20,21,22:]
+[1493722510588] left click on word 1.0.24 ('1793')
+[1493722510588] add 1.0.24 to 1[19,20,21,22,23:]
+[1493722511333] right click on word 1.1.7 ('reign(1793)')
+[1493722511333] add 1.1.7 to 1[19,20,21,22,23,24:]
+[1493722511733] right click on word 1.1.7 ('reign(1793)')
+[1493722512997] label 1[19,20,21,22,23,24:7] as possible
+[1493722555836] left click on word 1.0.13 ('his')
+[1493722555837] edit 1[13,14,16,17,18:10]
+[1493722556773] left click on word 1.0.13 ('his')
+[1493722556773] del 1.0.13 from 1[13,14,16,17,18:10]
+[1493722557245] left click on word 1.0.14 ('father')
+[1493722557245] del 1.0.14 from 1[14,16,17,18:10]
+[1493722557788] left click on word 1.0.18 ('khan')
+[1493722557788] del 1.0.18 from 1[16,17,18:10]
+[1493722558500] left click on word 1.0.17 ('ali')
+[1493722558500] del 1.0.17 from 1[16,17:10]
+[1493722558918] left click on word 1.0.16 ('ashraf')
+[1493722558918] del 1.0.16 from 1[16:10]
+[1493722559556] left click on word 1.0.19 ('died')
+[1493722559556] del 1.0.19 from 1[19,20,21,22,23,24:7]
+[1493722559557] add 1.0.19 to 1[:10]
+[1493722560085] left click on word 1.0.20 ('on')
+[1493722560085] del 1.0.20 from 1[20,21,22,23,24:7]
+[1493722560085] add 1.0.20 to 1[19:10]
+[1493722561181] left click on word 1.0.19 ('died')
+[1493722561181] del 1.0.19 from 1[19,20:10]
+[1493722561181] add 1.0.19 to 1[21,22,23,24:7]
+[1493722561804] left click on word 1.0.21 ('september')
+[1493722561804] del 1.0.21 from 1[21,22,23,24,19:7]
+[1493722561805] add 1.0.21 to 1[20:10]
+[1493722562525] left click on word 1.0.22 ('6')
+[1493722562525] del 1.0.22 from 1[22,23,24,19:7]
+[1493722562526] add 1.0.22 to 1[20,21:10]
+[1493722563132] left click on word 1.0.21 ('september')
+[1493722563133] del 1.0.21 from 1[20,21,22:10]
+[1493722563133] add 1.0.21 to 1[23,24,19:7]
+[1493722563837] left click on word 1.0.22 ('6')
+[1493722563837] del 1.0.22 from 1[20,22:10]
+[1493722563837] add 1.0.22 to 1[23,24,19,21:7]
+[1493722564397] left click on word 1.0.24 ('1793')
+[1493722564397] del 1.0.24 from 1[23,24,19,21,22:7]
+[1493722564397] add 1.0.24 to 1[20:10]
+[1493722565005] left click on word 1.1.7 ('reign(1793)')
+[1493722565005] del 1.1.7 from 1[23,19,21,22:7]
+[1493722565005] add 1.1.7 to 1[20,24:10]
+[1493722565405] left click on word 1.1.7 ('reign(1793)')
+[1493722565405] del 1.1.7 from 1[20,24:10,7]
+[1493722565405] add 1.1.7 to 1[23,19,21,22:]
+[1493722566309] left click on word 1.1.7 ('reign(1793)')
+[1493722566309] del 1.1.7 from 1[23,19,21,22:7]
+[1493722566310] add 1.1.7 to 1[20,24:10]
+[1493722566997] left click on word 1.1.7 ('reign(1793)')
+[1493722566997] del 1.1.7 from 1[20,24:10,7]
+[1493722566997] add 1.1.7 to 1[23,19,21,22:]
+[1493722567668] left click on word 1.1.7 ('reign(1793)')
+[1493722567668] del 1.1.7 from 1[23,19,21,22:7]
+[1493722567668] add 1.1.7 to 1[20,24:10]
+[1493722568670] cancel edit
+[1493722568670] add 1.0.13 to 1[20,24:10,7]
+[1493722568670] add 1.0.14 to 1[20,24,13:10,7]
+[1493722568671] add 1.0.18 to 1[20,24,13,14:10,7]
+[1493722568671] add 1.0.17 to 1[20,24,13,14,18:10,7]
+[1493722568672] add 1.0.16 to 1[20,24,13,14,18,17:10,7]
+[1493722568672] add 1.0.20 to 1[23,19,21,22:]
+[1493722568673] add 1.0.24 to 1[23,19,21,22,20:]
+[1493722568673] add 1.1.7 to 1[23,19,21,22,20,24:]
+[1493722569484] left click on word 1.0.19 ('died')
+[1493722569484] edit 1[23,19,21,22,20,24:7]
+[1493722570125] left click on word 1.0.19 ('died')
+[1493722570125] del 1.0.19 from 1[23,19,21,22,20,24:7]
+[1493722571205] right click on word 1.0.19 ('died')
+[1493722571205] add 1.0.19 to 1[23,21,22,20,24:7]
+[1493722571653] right click on word 1.0.19 ('died')
+[1493722572477] del 1.0.19 from 1[23,21,22,20,24,19:7]
+[1493722574037] right click on word 1.0.20 ('on')
+[1493722574669] del 1.0.20 from 1[23,21,22,20,24:7]
+[1493722575461] right click on word 1.0.24 ('1793')
+[1493722575965] del 1.0.24 from 1[23,21,22,24:7]
+[1493722577445] right click on word 1.0.23 (',')
+[1493722577949] del 1.0.23 from 1[23,21,22:7]
+[1493722579421] right click on word 1.0.22 ('6')
+[1493722579821] del 1.0.22 from 1[21,22:7]
+[1493722580413] right click on word 1.0.21 ('september')
+[1493722580805] del 1.0.21 from 1[21:7]
+[1493722581533] right click on word 1.0.24 ('1793')
+[1493722584109] right click on word 1.1.7 ('reign(1793)')
+[1493722584533] del 1.1.7 from 1[:7]
+[1493722589925] left click on word 1.0.0 ('he')
+[1493722589925] new alignment group
+[1493722589925] add 1.0.0 to 1[:]
+[1493722590534] left click on word 1.0.1 ('succeeded')
+[1493722590534] add 1.0.1 to 1[0:]
+[1493722591157] left click on word 1.0.2 ('to')
+[1493722591157] add 1.0.2 to 1[0,1:]
+[1493722591749] left click on word 1.0.3 ('the')
+[1493722591749] add 1.0.3 to 1[0,1,2:]
+[1493722592588] left click on word 1.0.10 ('throne')
+[1493722592588] add 1.0.10 to 1[0,1,2,3:]
+[1493722593869] left click on word 1.0.12 ('after')
+[1493722593869] add 1.0.12 to 1[0,1,2,3,10:]
+[1493722594717] left click on word 1.0.13 ('his')
+[1493722594717] del 1.0.13 from 1[13,14,18,17,16:10]
+[1493722594717] add 1.0.13 to 1[0,1,2,3,10,12:]
+[1493722595181] left click on word 1.0.14 ('father')
+[1493722595181] del 1.0.14 from 1[14,18,17,16:10]
+[1493722595181] add 1.0.14 to 1[0,1,2,3,10,12,13:]
+[1493722596125] left click on word 1.0.16 ('ashraf')
+[1493722596125] del 1.0.16 from 1[18,17,16:10]
+[1493722596125] add 1.0.16 to 1[0,1,2,3,10,12,13,14:]
+[1493722597309] left click on word 1.0.17 ('ali')
+[1493722597309] del 1.0.17 from 1[18,17:10]
+[1493722597309] add 1.0.17 to 1[0,1,2,3,10,12,13,14,16:]
+[1493722597893] left click on word 1.0.18 ('khan')
+[1493722597893] del 1.0.18 from 1[18:10]
+[1493722597893] add 1.0.18 to 1[0,1,2,3,10,12,13,14,16,17:]
+[1493722598493] left click on word 1.0.19 ('died')
+[1493722598493] add 1.0.19 to 1[0,1,2,3,10,12,13,14,16,17,18:]
+[1493722600877] right click on word 1.1.6 ('predecessor(ashraf_ali_khan[monarch])')
+[1493722600877] add 1.1.6 to 1[0,1,2,3,10,12,13,14,16,17,18,19:]
+[1493722601325] right click on word 1.1.6 ('predecessor(ashraf_ali_khan[monarch])')
+[1493722602685] label 1[0,1,2,3,10,12,13,14,16,17,18,19:6] as sure
+[1493722609077] left click on word 2.0.0 ('he')
+[1493722609077] new alignment group
+[1493722609077] add 2.0.0 to 2[:]
+[1493722609469] left click on word 2.0.1 ('reigned')
+[1493722609469] add 2.0.1 to 2[0:]
+[1493722609997] cancel edit
+[1493722610533] left click on word 2.0.2 ('from')
+[1493722610533] new alignment group
+[1493722610533] add 2.0.2 to 2[:]
+[1493722611133] left click on word 2.0.0 ('he')
+[1493722611133] add 2.0.0 to 2[2:]
+[1493722611621] left click on word 2.0.1 ('reigned')
+[1493722611621] add 2.0.1 to 2[2,0:]
+[1493722612293] left click on word 2.0.3 ('1793')
+[1493722612293] add 2.0.3 to 2[2,0,1:]
+[1493722614118] right click on word 2.1.7 ('reign(1793)')
+[1493722614118] add 2.1.7 to 2[2,0,1,3:]
+[1493722619189] right click on word 2.1.7 ('reign(1793)')
+[1493722620429] label 2[2,0,1,3:7] as sure
+[1493722621452] left click on word 2.0.4 ('until')
+[1493722621453] new alignment group
+[1493722621453] add 2.0.4 to 2[:]
+[1493722622540] left click on word 2.0.5 ('1810')
+[1493722622541] add 2.0.5 to 2[4:]
+[1493722623709] right click on word 2.1.4 ('date_of_death(1810-04-28)')
+[1493722623709] add 2.1.4 to 2[4,5:]
+[1493722624189] right click on word 2.1.4 ('date_of_death(1810-04-28)')
+[1493722625837] label 2[4,5:4] as possible
+[1493722630061] right click on word 2.1.4 ('date_of_death(1810-04-28)')
+[1493722630429] del 2.1.4 from 2[4,5:4]
+[1493722631437] right click on word 2.0.4 ('until')
+[1493722633285] right click on word 2.0.5 ('1810')
+[1493722633845] del 2.0.5 from 2[4,5:]
+[1493722635141] left click on word 2.0.4 ('until')
+[1493722635141] edit 2[4:]
+[1493722636077] left click on word 2.0.5 ('1810')
+[1493722636077] add 2.0.5 to 2[4:]
+[1493722637069] left click on word 2.0.6 (',')
+[1493722637069] add 2.0.6 to 2[4,5:]
+[1493722637653] left click on word 2.0.7 ('when')
+[1493722637653] add 2.0.7 to 2[4,5,6:]
+[1493722638317] left click on word 2.0.8 ('he')
+[1493722638317] add 2.0.8 to 2[4,5,6,7:]
+[1493722638789] left click on word 2.0.9 ('died')
+[1493722638789] add 2.0.9 to 2[4,5,6,7,8:]
+[1493722639293] left click on word 2.0.10 ('on')
+[1493722639293] add 2.0.10 to 2[4,5,6,7,8,9:]
+[1493722640165] cancel edit
+[1493722645189] left click on word 2.0.4 ('until')
+[1493722645189] edit 2[4:]
+[1493722645789] left click on word 2.0.5 ('1810')
+[1493722645789] add 2.0.5 to 2[4:]
+[1493722646605] left click on word 2.0.6 (',')
+[1493722646605] add 2.0.6 to 2[4,5:]
+[1493722647013] left click on word 2.0.7 ('when')
+[1493722647013] add 2.0.7 to 2[4,5,6:]
+[1493722647509] left click on word 2.0.8 ('he')
+[1493722647509] add 2.0.8 to 2[4,5,6,7:]
+[1493722648109] left click on word 2.0.9 ('died')
+[1493722648109] add 2.0.9 to 2[4,5,6,7,8:]
+[1493722648893] left click on word 2.0.10 ('on')
+[1493722648893] add 2.0.10 to 2[4,5,6,7,8,9:]
+[1493722649565] left click on word 2.0.11 ('april')
+[1493722649565] add 2.0.11 to 2[4,5,6,7,8,9,10:]
+[1493722650021] left click on word 2.0.12 ('28')
+[1493722650021] add 2.0.12 to 2[4,5,6,7,8,9,10,11:]
+[1493722650765] left click on word 2.0.13 (',')
+[1493722650765] add 2.0.13 to 2[4,5,6,7,8,9,10,11,12:]
+[1493722651509] left click on word 2.0.14 ('1810')
+[1493722651509] add 2.0.14 to 2[4,5,6,7,8,9,10,11,12,13:]
+[1493722652461] right click on word 2.1.4 ('date_of_death(1810-04-28)')
+[1493722652461] add 2.1.4 to 2[4,5,6,7,8,9,10,11,12,13,14:]
+[1493722653069] right click on word 2.1.4 ('date_of_death(1810-04-28)')
+[1493722654637] label 2[4,5,6,7,8,9,10,11,12,13,14:4] as possible
+[1494423502171] NEW SESSION
+[1494423540100] left click on word 0.1.2 ('name(khan,_babar_ali)')
+[1494423540101] new alignment group
+[1494423540101] add 0.1.2 to 0[:]
+[1494423541643] left click on word 0.0.4 ('bahadur')
+[1494423541644] del 0.0.4 from 0[0,1,2,3,4:0]
+[1494423541644] add 0.0.4 to 0[:2]
+[1494423542620] right click on word 0.0.4 ('bahadur')
+[1494423543228] right click on word 0.0.4 ('bahadur')
+[1494423544700] label 0[4:2] as sure
+[1494423552684] left click on word 0.0.3 ('khan')
+[1494423552684] edit 0[0,1,2,3:0]
+[1494423554076] left click on word 0.0.4 ('bahadur')
+[1494423554076] del 0.0.4 from 0[4:2]
+[1494423554076] add 0.0.4 to 0[0,1,2,3:0]
+[1494423555220] left click on word 0.1.0 ('name(babar_ali_khan_bahadur)')
+[1494423555220] del 0.1.0 from 0[0,1,2,3,4:0]
+[1494423555924] left click on word 0.1.0 ('name(babar_ali_khan_bahadur)')
+[1494423555924] add 0.1.0 to 0[0,1,2,3,4:]
+[1494423556804] left click on word 0.1.2 ('name(khan,_babar_ali)')
+[1494423556804] del 0.1.2 from 0[:2]
+[1494423556804] add 0.1.2 to 0[0,1,2,3,4:0]
+[1494423557357] right click on word 0.1.2 ('name(khan,_babar_ali)')
+[1494423557916] right click on word 0.1.2 ('name(khan,_babar_ali)')
+[1496050683821] NEW SESSION
+[1496050698496] left click on word 1.0.0 ('he')
+[1496050698497] edit 1[0,1,2,3,10,12,13,14,16,17,18,19:6]
+[1496050699456] right click on word 1.0.0 ('he')
+[1496050700135] right click on word 1.0.0 ('he')
+[1496050700903] del 1.0.0 from 1[0,1,2,3,10,12,13,14,16,17,18,19:6]
+[1496050702807] left click on word 1.0.0 ('he')
+[1496050702807] new alignment group
+[1496050702807] add 1.0.0 to 1[:]
+[1496050704279] left click on word 1.1.0 ('name(babar_ali_khan_bahadur)')
+[1496050704279] add 1.1.0 to 1[0:]
+[1496050705720] left click on word 1.1.2 ('name(khan,_babar_ali)')
+[1496050705720] add 1.1.2 to 1[0:0]
+[1496050706815] right click on word 1.1.2 ('name(khan,_babar_ali)')
+[1496050707303] right click on word 1.1.2 ('name(khan,_babar_ali)')
+[1496050708672] label 1[0:0,2] as sure
+[1496050723848] right click on word 2.0.0 ('he')
+[1496050724679] del 2.0.0 from 2[2,0,1,3:7]
+[1496050726335] left click on word 2.0.0 ('he')
+[1496050726335] new alignment group
+[1496050726336] add 2.0.0 to 2[:]
+[1496050727455] left click on word 2.1.0 ('name(babar_ali_khan_bahadur)')
+[1496050727456] add 2.1.0 to 2[0:]
+[1496050728487] left click on word 2.1.2 ('name(khan,_babar_ali)')
+[1496050728488] add 2.1.2 to 2[0:0]
+[1496050729015] right click on word 2.1.2 ('name(khan,_babar_ali)')
+[1496050729671] right click on word 2.1.2 ('name(khan,_babar_ali)')
+[1496050730904] label 2[0:0,2] as sure

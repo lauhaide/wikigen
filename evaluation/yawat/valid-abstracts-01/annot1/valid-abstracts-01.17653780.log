@@ -1,0 +1,143 @@
+[1492783085659] NEW SESSION
+[1492783956904] left click on word 0.0.19 ('known')
+[1492783956905] new alignment group
+[1492783956905] add 0.0.19 to 0[:]
+[1492783957550] left click on word 0.0.20 ('by')
+[1492783957550] add 0.0.20 to 0[19:]
+[1492783957992] left click on word 0.0.21 ('the')
+[1492783957992] add 0.0.21 to 0[19,20:]
+[1492783959063] left click on word 0.0.22 ('stage')
+[1492783959063] add 0.0.22 to 0[19,20,21:]
+[1492783959976] left click on word 0.0.23 ('name')
+[1492783959976] add 0.0.23 to 0[19,20,21,22:]
+[1492783960633] left click on word 0.0.24 ('mithra')
+[1492783960633] add 0.0.24 to 0[19,20,21,22,23:]
+[1492783961721] left click on word 0.0.25 ('jin')
+[1492783961721] add 0.0.25 to 0[19,20,21,22,23,24:]
+[1492783964880] right click on word 0.1.5 ('name(mithra_jin)')
+[1492783964880] add 0.1.5 to 0[19,20,21,22,23,24,25:]
+[1492783965658] right click on word 0.1.5 ('name(mithra_jin)')
+[1492783967056] label 0[19,20,21,22,23,24,25:5] as sure
+[1492783997039] left click on word 0.0.35 ('korean')
+[1492783997039] new alignment group
+[1492783997039] add 0.0.35 to 0[:]
+[1492784008239] right click on word 0.1.8 ('origin(south_korea[location])')
+[1492784008239] add 0.1.8 to 0[35:]
+[1492784008959] right click on word 0.1.8 ('origin(south_korea[location])')
+[1492784011167] label 0[35:8] as sure
+[1492784017003] left click on word 0.0.11 ('born')
+[1492784017003] new alignment group
+[1492784017003] add 0.0.11 to 0[:]
+[1492784017623] left click on word 0.0.12 ('6')
+[1492784017623] add 0.0.12 to 0[11:]
+[1492784018670] left click on word 0.0.13 ('january')
+[1492784018670] add 0.0.13 to 0[11,12:]
+[1492784019367] left click on word 0.0.14 ('1983')
+[1492784019367] add 0.0.14 to 0[11,12,13:]
+[1492784021295] right click on word 0.1.9 ('birth_date(1983-01-06)')
+[1492784021296] add 0.1.9 to 0[11,12,13,14:]
+[1492784021983] right click on word 0.1.9 ('birth_date(1983-01-06)')
+[1492784023415] label 0[11,12,13,14:9] as sure
+[1492784039287] left click on word 0.0.0 ('choi')
+[1492784039287] new alignment group
+[1492784039287] add 0.0.0 to 0[:]
+[1492784040326] left click on word 0.0.1 ('jin')
+[1492784040327] add 0.0.1 to 0[0:]
+[1492784043999] right click on word 0.1.16 ('birth_name(choi_jin)')
+[1492784043999] add 0.1.16 to 0[0,1:]
+[1492784044575] right click on word 0.1.16 ('birth_name(choi_jin)')
+[1492784046215] label 0[0,1:16] as sure
+[1492784098237] left click on word 0.1.5 ('name(mithra_jin)')
+[1492784098237] edit 0[19,20,21,22,23,24,25:5]
+[1492784099782] right click on word 0.1.26 ('name(jin,_mithra)')
+[1492784099783] add 0.1.26 to 0[19,20,21,22,23,24,25:5]
+[1492784204397] left click on word 0.0.46 ('lyricist')
+[1492784204397] new alignment group
+[1492784204398] add 0.0.46 to 0[:]
+[1492784206110] right click on word 0.1.22 ('occupation(lyricist[thing])')
+[1492784206110] add 0.1.22 to 0[46:]
+[1492784229365] left click on word 0.1.4 ('occupation(singing[thing])')
+[1492784229365] new alignment group
+[1492784229366] add 0.1.4 to 0[:]
+[1492784255373] left click on word 0.1.14 ('occupation(rapping)')
+[1492784255373] add 0.1.14 to 0[:4]
+[1492784257708] cancel edit
+[1492784258389] left click on word 0.1.14 ('occupation(rapping)')
+[1492784258389] new alignment group
+[1492784258389] add 0.1.14 to 0[:]
+[1492784259572] cancel edit
+[1492784261303] left click on word 0.0.40 ('rap')
+[1492784261303] new alignment group
+[1492784261303] add 0.0.40 to 0[:]
+[1492784261749] left click on word 0.0.41 ('artist')
+[1492784261749] add 0.0.41 to 0[40:]
+[1492784263300] right click on word 0.1.14 ('occupation(rapping)')
+[1492784263301] add 0.1.14 to 0[40,41:]
+[1492784265028] right click on word 0.1.14 ('occupation(rapping)')
+[1492784266621] label 0[40,41:14] as sure
+[1492784291852] left click on word 0.0.38 ('musician')
+[1492784291853] new alignment group
+[1492784291853] add 0.0.38 to 0[:]
+[1492784299372] right click on word 0.1.17 ('wordnet_type(musician)')
+[1492784299372] add 0.1.17 to 0[38:]
+[1492784301749] right click on word 0.1.17 ('wordnet_type(musician)')
+[1492784303197] label 0[38:17] as sure
+[1492784309268] left click on word 0.0.36 ('hip')
+[1492784309268] new alignment group
+[1492784309268] add 0.0.36 to 0[:]
+[1492784309844] left click on word 0.0.37 ('hop')
+[1492784309844] add 0.0.37 to 0[36:]
+[1492784315556] right click on word 0.1.10 ('genre(hip_hop_music[music_genre])')
+[1492784315556] add 0.1.10 to 0[36,37:]
+[1492784317942] right click on word 0.1.10 ('genre(hip_hop_music[music_genre])')
+[1492784319770] label 0[36,37:10] as sure
+[1492784423507] right click on word 0.1.22 ('occupation(lyricist[thing])')
+[1492784425209] label 0[46:22] as sure
+[1492784445955] left click on word 1.0.4 ('mc')
+[1492784445955] new alignment group
+[1492784445955] add 1.0.4 to 1[:]
+[1492784447211] left click on word 1.0.5 ('of')
+[1492784447212] add 1.0.5 to 1[4:]
+[1492784447755] left click on word 1.0.6 ('the')
+[1492784447755] add 1.0.6 to 1[4,5:]
+[1492784448267] left click on word 1.0.7 ('group')
+[1492784448268] add 1.0.7 to 1[4,5,6:]
+[1492784448843] left click on word 1.0.8 ('epik')
+[1492784448843] add 1.0.8 to 1[4,5,6,7:]
+[1492784449347] left click on word 1.0.9 ('high')
+[1492784449347] add 1.0.9 to 1[4,5,6,7,8:]
+[1492784452387] right click on word 1.1.3 ('associated_acts(epik_high[band])')
+[1492784452387] add 1.1.3 to 1[4,5,6,7,8,9:]
+[1492784453332] right click on word 1.1.3 ('associated_acts(epik_high[band])')
+[1492784455108] label 1[4,5,6,7,8,9:3] as sure
+[1494338554675] NEW SESSION
+[1494338714722] left click on word 0.0.46 ('lyricist')
+[1494338714722] edit 0[46:22]
+[1494338715792] left click on word 0.0.43 ('songwriter')
+[1494338715792] add 0.0.43 to 0[46:22]
+[1494338718231] left click on word 0.0.45 ('and')
+[1494338718232] add 0.0.45 to 0[46,43:22]
+[1494338720839] right click on word 0.0.46 ('lyricist')
+[1494338733143] left click on word 0.0.43 ('songwriter')
+[1494338733143] edit 0[46,43,45:22]
+[1494338734532] left click on word 0.0.44 (',')
+[1494338734533] add 0.0.44 to 0[46,43,45:22]
+[1494338735880] right click on word 0.0.44 (',')
+[1494338741760] right click on word 0.0.44 (',')
+[1494338742936] del 0.0.44 from 0[46,43,45,44:22]
+[1494338808744] left click on word 0.0.41 ('artist')
+[1494338808744] edit 0[40,41:14]
+[1494338815632] right click on word 0.1.18 ('short_description(south_korean_rapper)')
+[1494338815633] add 0.1.18 to 0[40,41:14]
+[1496071656315] NEW SESSION
+[1496071660115] left click on word 1.0.0 ('he')
+[1496071660116] new alignment group
+[1496071660116] add 1.0.0 to 1[:]
+[1496071662371] cancel edit
+[1496071691579] left click on word 1.0.0 ('he')
+[1496071691579] new alignment group
+[1496071691580] add 1.0.0 to 1[:]
+[1496071707020] right click on word 1.1.16 ('birth_name(choi_jin)')
+[1496071707020] add 1.1.16 to 1[0:]
+[1496071707763] right click on word 1.1.16 ('birth_name(choi_jin)')
+[1496071711724] label 1[0:16] as sure

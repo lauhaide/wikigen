@@ -1,0 +1,147 @@
+[1492784479934] NEW SESSION
+[1492784503363] left click on word 0.0.0 ('norman')
+[1492784503364] new alignment group
+[1492784503364] add 0.0.0 to 0[:]
+[1492784504091] left click on word 0.0.1 ('m.')
+[1492784504091] add 0.0.1 to 0[0:]
+[1492784504627] left click on word 0.0.2 ('scott')
+[1492784504627] add 0.0.2 to 0[0,1:]
+[1492784505673] right click on word 0.1.2 ('name(scott,_norman)')
+[1492784505674] add 0.1.2 to 0[0,1,2:]
+[1492784506162] right click on word 0.1.2 ('name(scott,_norman)')
+[1492784507427] label 0[0,1,2:2] as sure
+[1492784511754] left click on word 0.0.5 ('canadian')
+[1492784511754] new alignment group
+[1492784511754] add 0.0.5 to 0[:]
+[1492784513467] right click on word 0.1.3 ('country(canada[location])')
+[1492784513467] add 0.1.3 to 0[5:]
+[1492784514672] right click on word 0.1.3 ('country(canada[location])')
+[1492784521147] label 0[5:3] as sure
+[1492784529659] left click on word 0.0.3 ('was')
+[1492784529659] new alignment group
+[1492784529659] add 0.0.3 to 0[:]
+[1492784530626] left click on word 0.0.6 ('figure')
+[1492784530626] add 0.0.6 to 0[3:]
+[1492784531315] left click on word 0.0.7 ('skater')
+[1492784531315] add 0.0.7 to 0[3,6:]
+[1492784532618] right click on word 0.1.0 ('short_description(figure_skater)')
+[1492784532618] add 0.1.0 to 0[3,6,7:]
+[1492784533210] right click on word 0.1.0 ('short_description(figure_skater)')
+[1492784534442] label 0[3,6,7:0] as sure
+[1492784549620] left click on word 1.0.2 ('partner')
+[1492784549620] new alignment group
+[1492784549620] add 1.0.2 to 1[:]
+[1492784559070] left click on word 1.0.3 ('was')
+[1492784559070] add 1.0.3 to 1[2:]
+[1492784562618] left click on word 1.0.4 ('jeanne')
+[1492784562618] add 1.0.4 to 1[2,3:]
+[1492784563234] left click on word 1.0.5 ('chevalier')
+[1492784563235] add 1.0.5 to 1[2,3,4:]
+[1492784564754] right click on word 1.1.1 ('partner(jeanne_chevalier[figure_skater])')
+[1492784564754] add 1.1.1 to 1[2,3,4,5:]
+[1492784565497] right click on word 1.1.1 ('partner(jeanne_chevalier[figure_skater])')
+[1492784567059] label 1[2,3,4,5:1] as sure
+[1493402650984] NEW SESSION
+[1493402672540] left click on word 0.0.6 ('figure')
+[1493402672540] edit 0[3,6,7:0]
+[1493402682107] right click on word 0.0.3 ('was')
+[1493402684547] left click on word 0.0.3 ('was')
+[1493402684547] edit 0[3,6,7:0]
+[1493402685931] right click on word 0.0.3 ('was')
+[1493402687267] left click on word 0.0.3 ('was')
+[1493402687267] edit 0[3,6,7:0]
+[1493402688019] right click on word 0.0.3 ('was')
+[1493402692211] right click on word 0.0.6 ('figure')
+[1493402694884] right click on word 0.0.3 ('was')
+[1493402696133] del 0.0.3 from 0[3,6,7:0]
+[1493758615847] NEW SESSION
+[1493758672292] left click on word 0.0.0 ('norman')
+[1493758672292] edit 0[0,1,2:2]
+[1493758695899] cancel edit
+[1493759000257] left click on word 2.0.11 ('canadian')
+[1493759000257] new alignment group
+[1493759000258] add 2.0.11 to 2[:]
+[1493759006241] right click on word 2.1.3 ('country(canada[location])')
+[1493759006242] add 2.1.3 to 2[11:]
+[1493759007737] right click on word 2.1.3 ('country(canada[location])')
+[1493759009106] label 2[11:3] as sure
+[1493759012041] left click on word 2.0.2 ('single')
+[1493759012041] new alignment group
+[1493759012041] add 2.0.2 to 2[:]
+[1493759012713] left click on word 2.0.2 ('single')
+[1493759012714] del 2.0.2 from 2[2:]
+[1493759013273] left click on word 2.0.3 ('skater')
+[1493759013273] add 2.0.3 to 2[:]
+[1493759014969] right click on word 2.1.0 ('short_description(figure_skater)')
+[1493759014969] add 2.1.0 to 2[3:]
+[1493759015793] right click on word 2.1.0 ('short_description(figure_skater)')
+[1493759018217] label 2[3:0] as sure
+[1493759035516] left click on word 3.0.0 ('he')
+[1493759035516] new alignment group
+[1493759035516] add 3.0.0 to 3[:]
+[1493759036593] left click on word 3.0.0 ('he')
+[1493759036593] del 3.0.0 from 3[0:]
+[1493759038977] left click on word 3.0.2 ('chevalier')
+[1493759038977] add 3.0.2 to 3[:]
+[1493759049481] left click on word 3.0.7 ('pairs')
+[1493759049481] add 3.0.7 to 3[2:]
+[1493759052376] right click on word 3.1.1 ('partner(jeanne_chevalier[figure_skater])')
+[1493759052376] add 3.1.1 to 3[2,7:]
+[1493759056041] right click on word 3.0.7 ('pairs')
+[1493759060297] del 3.0.7 from 3[2,7:1]
+[1493759062153] right click on word 3.1.1 ('partner(jeanne_chevalier[figure_skater])')
+[1493759064537] label 3[2:1] as sure
+[1493759380863] left click on word 4.0.0 ('scott')
+[1493759380863] new alignment group
+[1493759380863] add 4.0.0 to 4[:]
+[1493759382319] right click on word 4.1.2 ('name(scott,_norman)')
+[1493759382319] add 4.1.2 to 4[0:]
+[1493759383615] right click on word 4.1.2 ('name(scott,_norman)')
+[1493759385510] label 4[0:2] as sure
+[1493759400878] left click on word 5.0.0 ('scott')
+[1493759400879] new alignment group
+[1493759400879] add 5.0.0 to 5[:]
+[1493759413877] right click on word 5.1.2 ('name(scott,_norman)')
+[1493759413877] add 5.1.2 to 5[0:]
+[1493759414638] right click on word 5.1.2 ('name(scott,_norman)')
+[1493759415862] label 5[0:2] as sure
+[1495211836339] NEW SESSION
+[1495450454865] left click on word 3.0.0 ('he')
+[1495450454865] new alignment group
+[1495450454865] add 3.0.0 to 3[:]
+[1495450455377] left click on word 3.0.1 ('and')
+[1495450455377] add 3.0.1 to 3[0:]
+[1495450456008] left click on word 3.0.2 ('chevalier')
+[1495450456008] del 3.0.2 from 3[2:1]
+[1495450456009] add 3.0.2 to 3[0,1:]
+[1495450456888] cancel edit
+[1495450456889] add 3.0.2 to 3[:1]
+[1495450457456] left click on word 3.0.2 ('chevalier')
+[1495450457457] edit 3[2:1]
+[1495450459480] left click on word 3.0.1 ('and')
+[1495450459480] add 3.0.1 to 3[2:1]
+[1495450460024] left click on word 3.0.0 ('he')
+[1495450460024] add 3.0.0 to 3[2,1:1]
+[1495450460608] right click on word 3.0.1 ('and')
+[1495450461584] right click on word 3.0.1 ('and')
+[1495450462608] label 3[2,1,0:1] as possible
+[1495900060880] NEW SESSION
+[1495900065251] left click on word 1.0.0 ('his')
+[1495900065252] new alignment group
+[1495900065252] add 1.0.0 to 1[:]
+[1495900067563] right click on word 1.1.2 ('name(scott,_norman)')
+[1495900067563] add 1.1.2 to 1[0:]
+[1495900070474] right click on word 1.1.2 ('name(scott,_norman)')
+[1495900072243] label 1[0:2] as sure
+[1496071725970] NEW SESSION
+[1496071733796] left click on word 2.0.5 ('he')
+[1496071733797] new alignment group
+[1496071733797] add 2.0.5 to 2[:]
+[1496071735548] right click on word 2.1.2 ('name(scott,_norman)')
+[1496071735548] add 2.1.2 to 2[5:]
+[1496071736236] right click on word 2.1.2 ('name(scott,_norman)')
+[1496071737556] label 2[5:2] as sure
+[1496071754876] left click on word 1.1.1 ('partner(jeanne_chevalier[figure_skater])')
+[1496071754876] edit 1[2,3,4,5:1]
+[1496071757716] right click on word 1.0.1 ('pairs')
+[1496071757717] add 1.0.1 to 1[2,3,4,5:1]

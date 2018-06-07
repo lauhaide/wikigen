@@ -1,0 +1,130 @@
+[1493730139969] NEW SESSION
+[1493730144567] left click on word 0.0.0 ('go')
+[1493730144567] new alignment group
+[1493730144567] add 0.0.0 to 0[:]
+[1493730145223] left click on word 0.0.1 ('nakamura')
+[1493730145223] add 0.0.1 to 0[0:]
+[1493730152806] left click on word 0.1.1 ('fullname(go_nakamura)')
+[1493730152806] add 0.1.1 to 0[0,1:]
+[1493730153239] right click on word 0.1.1 ('fullname(go_nakamura)')
+[1493730153520] right click on word 0.1.1 ('fullname(go_nakamura)')
+[1493730155175] label 0[0,1:1] as sure
+[1493730156574] left click on word 0.0.3 ('born')
+[1493730156574] new alignment group
+[1493730156574] add 0.0.3 to 0[:]
+[1493730157014] left click on word 0.0.4 ('29')
+[1493730157014] add 0.0.4 to 0[3:]
+[1493730157567] left click on word 0.0.5 ('november')
+[1493730157567] add 0.0.5 to 0[3,4:]
+[1493730158094] left click on word 0.0.6 ('1986')
+[1493730158094] add 0.0.6 to 0[3,4,5:]
+[1493730162150] left click on word 0.1.12 ('birth_date(1986-11-29)')
+[1493730162150] add 0.1.12 to 0[3,4,5,6:]
+[1493730162622] right click on word 0.1.12 ('birth_date(1986-11-29)')
+[1493730162911] right click on word 0.1.12 ('birth_date(1986-11-29)')
+[1493730164054] label 0[3,4,5,6:12] as sure
+[1493730167782] left click on word 0.0.10 ('japanese')
+[1493730167783] new alignment group
+[1493730167783] add 0.0.10 to 0[:]
+[1493730168542] left click on word 0.1.6 ('birth_place(japan[location])')
+[1493730168542] add 0.1.6 to 0[10:]
+[1493730168974] right click on word 0.1.6 ('birth_place(japan[location])')
+[1493730169326] right click on word 0.1.6 ('birth_place(japan[location])')
+[1493730170918] label 0[10:6] as sure
+[1493730176166] left click on word 0.0.1 ('nakamura')
+[1493730176166] edit 0[0,1:1]
+[1493730177454] left click on word 0.1.5 ('name(nakamura,_go)')
+[1493730177455] add 0.1.5 to 0[0,1:1]
+[1493730177839] left click on word 0.1.5 ('name(nakamura,_go)')
+[1493730177839] del 0.1.5 from 0[0,1:1,5]
+[1493730178366] left click on word 0.1.5 ('name(nakamura,_go)')
+[1493730178366] add 0.1.5 to 0[0,1:1]
+[1493730178590] left click on word 0.1.5 ('name(nakamura,_go)')
+[1493730178590] del 0.1.5 from 0[0,1:1,5]
+[1493730179054] left click on word 0.1.5 ('name(nakamura,_go)')
+[1493730179055] add 0.1.5 to 0[0,1:1]
+[1493730186646] left click on word 0.0.11 ('football')
+[1493730186646] add 0.0.11 to 0[0,1:1,5]
+[1493730187422] left click on word 0.0.12 ('player')
+[1493730187422] add 0.0.12 to 0[0,1,11:1,5]
+[1493730188734] left click on word 0.1.13 ('short_description(footballer)')
+[1493730188734] add 0.1.13 to 0[0,1,11,12:1,5]
+[1493730189246] right click on word 0.1.13 ('short_description(footballer)')
+[1493730189734] right click on word 0.1.13 ('short_description(footballer)')
+[1493730193062] label 0[0,1,11,12:1,5,13] as sure
+[1493730200078] left click on word 0.0.11 ('football')
+[1493730200079] edit 0[0,1,11,12:1,5,13]
+[1493730200654] right click on word 0.0.11 ('football')
+[1493730201158] right click on word 0.0.11 ('football')
+[1493730201775] del 0.0.11 from 0[0,1,11,12:1,5,13]
+[1493730202822] right click on word 0.0.12 ('player')
+[1493730204822] right click on word 0.0.11 ('football')
+[1493730206959] right click on word 0.1.13 ('short_description(footballer)')
+[1493730207918] del 0.1.13 from 0[0,1,12:1,5,13]
+[1493730209295] right click on word 0.0.12 ('player')
+[1493730209935] del 0.0.12 from 0[0,1,12:1,5]
+[1493730210926] left click on word 0.0.11 ('football')
+[1493730210926] new alignment group
+[1493730210927] add 0.0.11 to 0[:]
+[1493730212991] left click on word 0.0.8 ('is')
+[1493730212991] add 0.0.8 to 0[11:]
+[1493730213630] left click on word 0.0.8 ('is')
+[1493730213630] del 0.0.8 from 0[11,8:]
+[1493730214134] cancel edit
+[1493730215326] left click on word 0.0.8 ('is')
+[1493730215326] new alignment group
+[1493730215326] add 0.0.8 to 0[:]
+[1493730216246] left click on word 0.0.9 ('a')
+[1493730216246] add 0.0.9 to 0[8:]
+[1493730216959] left click on word 0.0.11 ('football')
+[1493730216959] add 0.0.11 to 0[8,9:]
+[1493730217574] left click on word 0.0.12 ('player')
+[1493730217574] add 0.0.12 to 0[8,9,11:]
+[1493730218654] left click on word 0.1.13 ('short_description(footballer)')
+[1493730218654] add 0.1.13 to 0[8,9,11,12:]
+[1493730219254] right click on word 0.1.13 ('short_description(footballer)')
+[1493730219559] right click on word 0.1.13 ('short_description(footballer)')
+[1493730220694] label 0[8,9,11,12:13] as sure
+[1493730228686] right click on word 0.0.10 ('japanese')
+[1493730229359] del 0.0.10 from 0[10:6]
+[1493730231671] right click on word 0.1.6 ('birth_place(japan[location])')
+[1493730232431] del 0.1.6 from 0[:6]
+[1493730234063] left click on word 0.0.10 ('japanese')
+[1493730234063] new alignment group
+[1493730234063] add 0.0.10 to 0[:]
+[1493730235551] left click on word 0.1.6 ('birth_place(japan[location])')
+[1493730235551] add 0.1.6 to 0[10:]
+[1493730236159] right click on word 0.1.6 ('birth_place(japan[location])')
+[1493730236686] right click on word 0.1.6 ('birth_place(japan[location])')
+[1493730237583] label 0[10:6] as sure
+[1493730253471] left click on word 1.0.0 ('he')
+[1493730253471] new alignment group
+[1493730253471] add 1.0.0 to 1[:]
+[1493730253942] left click on word 1.0.1 ('plays')
+[1493730253943] add 1.0.1 to 1[0:]
+[1493730254495] left click on word 1.0.2 ('for')
+[1493730254495] add 1.0.2 to 1[0,1:]
+[1493730255102] left click on word 1.0.3 ('gifu')
+[1493730255102] add 1.0.3 to 1[0,1,2:]
+[1493730255975] left click on word 1.0.5 ('reserve')
+[1493730255975] add 1.0.5 to 1[0,1,2,3:]
+[1493730256479] left click on word 1.0.6 ('team')
+[1493730256479] add 1.0.6 to 1[0,1,2,3,5:]
+[1493730257055] left click on word 1.1.0 ('clubs(f.c._gifu[soccer_club])')
+[1493730257055] add 1.1.0 to 1[0,1,2,3,5,6:]
+[1493730257583] right click on word 1.1.0 ('clubs(f.c._gifu[soccer_club])')
+[1493730258047] right click on word 1.1.0 ('clubs(f.c._gifu[soccer_club])')
+[1493730259959] label 1[0,1,2,3,5,6:0] as sure
+[1496051401055] NEW SESSION
+[1496051409997] right click on word 1.0.0 ('he')
+[1496051410989] del 1.0.0 from 1[0,1,2,3,5,6:0]
+[1496051411581] left click on word 1.0.0 ('he')
+[1496051411581] new alignment group
+[1496051411581] add 1.0.0 to 1[:]
+[1496051413380] left click on word 1.1.1 ('fullname(go_nakamura)')
+[1496051413380] add 1.1.1 to 1[0:]
+[1496051415044] left click on word 1.1.5 ('name(nakamura,_go)')
+[1496051415044] add 1.1.5 to 1[0:1]
+[1496051415796] right click on word 1.1.5 ('name(nakamura,_go)')
+[1496051416349] right click on word 1.1.5 ('name(nakamura,_go)')
+[1496051417597] label 1[0:1,5] as sure

@@ -1,0 +1,71 @@
+[1493119368997] NEW SESSION
+[1493119381155] left click on word 0.0.0 ('jay')
+[1493119381156] new alignment group
+[1493119381156] add 0.0.0 to 0[:]
+[1493119381683] left click on word 0.0.1 ('livingston')
+[1493119381683] add 0.0.1 to 0[0:]
+[1493119382451] left click on word 0.1.0 ('name(jay_livingston)')
+[1493119382451] add 0.1.0 to 0[0,1:]
+[1493119384171] right click on word 0.1.0 ('name(jay_livingston)')
+[1493119385179] right click on word 0.1.0 ('name(jay_livingston)')
+[1493119386364] label 0[0,1:0] as sure
+[1493119396443] left click on word 0.0.8 ('october')
+[1493119396444] new alignment group
+[1493119396444] add 0.0.8 to 0[:]
+[1493119397155] left click on word 0.0.9 ('17')
+[1493119397155] add 0.0.9 to 0[8:]
+[1493119397827] left click on word 0.0.10 (',')
+[1493119397827] add 0.0.10 to 0[8,9:]
+[1493119398459] left click on word 0.0.11 ('2001')
+[1493119398459] add 0.0.11 to 0[8,9,10:]
+[1493119399643] left click on word 0.1.8 ('death_date(2001-10-17)')
+[1493119399643] add 0.1.8 to 0[8,9,10,11:]
+[1493119400123] right click on word 0.1.8 ('death_date(2001-10-17)')
+[1493119400427] right click on word 0.1.8 ('death_date(2001-10-17)')
+[1493119401643] label 0[8,9,10,11:8] as sure
+[1493119413972] left click on word 0.0.3 ('march')
+[1493119413972] new alignment group
+[1493119413972] add 0.0.3 to 0[:]
+[1493119414611] left click on word 0.0.4 ('28')
+[1493119414611] add 0.0.4 to 0[3:]
+[1493119415235] left click on word 0.0.6 ('1915')
+[1493119415235] add 0.0.6 to 0[3,4:]
+[1493119416219] left click on word 0.1.12 ('birth_date(1915-03-28)')
+[1493119416219] add 0.1.12 to 0[3,4,6:]
+[1493119416675] right click on word 0.1.12 ('birth_date(1915-03-28)')
+[1493119416995] right click on word 0.1.12 ('birth_date(1915-03-28)')
+[1493119418243] label 0[3,4,6:12] as sure
+[1493119450699] left click on word 0.0.15 ('american')
+[1493119450699] new alignment group
+[1493119450699] add 0.0.15 to 0[:]
+[1493119451779] left click on word 0.1.6 ('birth_place(united_states[location])')
+[1493119451779] add 0.1.6 to 0[15:]
+[1493119452276] right click on word 0.1.6 ('birth_place(united_states[location])')
+[1493119452579] right click on word 0.1.6 ('birth_place(united_states[location])')
+[1493119453828] label 0[15:6] as possible
+[1496050025581] NEW SESSION
+[1496050044559] left click on word 0.1.2 ('birth_name(jacob_harold_levison)')
+[1496050044559] new alignment group
+[1496050044559] add 0.1.2 to 0[:]
+[1496050047775] left click on word 0.1.0 ('name(jay_livingston)')
+[1496050047775] del 0.1.0 from 0[0,1:0]
+[1496050047776] add 0.1.0 to 0[:2]
+[1496050049567] left click on word 0.0.0 ('jay')
+[1496050049567] del 0.0.0 from 0[0,1:]
+[1496050049567] add 0.0.0 to 0[:2,0]
+[1496050050503] left click on word 0.0.1 ('livingston')
+[1496050050503] del 0.0.1 from 0[1:]
+[1496050050503] add 0.0.1 to 0[0:2,0]
+[1496050051703] right click on word 0.1.2 ('birth_name(jacob_harold_levison)')
+[1496050052151] right click on word 0.1.2 ('birth_name(jacob_harold_levison)')
+[1496050053583] label 0[0,1:2,0] as sure
+[1496050070999] left click on word 1.0.0 ('livingston')
+[1496050070999] new alignment group
+[1496050070999] add 1.0.0 to 1[:]
+[1496050071927] left click on word 1.1.0 ('name(jay_livingston)')
+[1496050071927] add 1.1.0 to 1[0:]
+[1496050075295] left click on word 1.1.2 ('birth_name(jacob_harold_levison)')
+[1496050075295] add 1.1.2 to 1[0:0]
+[1496050075775] right click on word 1.1.2 ('birth_name(jacob_harold_levison)')
+[1496050076159] right click on word 1.1.2 ('birth_name(jacob_harold_levison)')
+[1496050077575] label 1[0:0,2] as sure

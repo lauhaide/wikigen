@@ -1,0 +1,134 @@
+[1493632523207] NEW SESSION
+[1493632525450] left click on word 0.0.0 ('juan')
+[1493632525450] new alignment group
+[1493632525451] add 0.0.0 to 0[:]
+[1493632525946] left click on word 0.0.1 ('pablo')
+[1493632525946] add 0.0.1 to 0[0:]
+[1493632529914] left click on word 0.0.2 ('Úbeda')
+[1493632529914] add 0.0.2 to 0[0,1:]
+[1493632531362] cancel edit
+[1493632532426] left click on word 0.0.0 ('juan')
+[1493632532426] new alignment group
+[1493632532426] add 0.0.0 to 0[:]
+[1493632532890] left click on word 0.0.1 ('pablo')
+[1493632532890] add 0.0.1 to 0[0:]
+[1493632533411] left click on word 0.0.2 ('Úbeda')
+[1493632533411] add 0.0.2 to 0[0,1:]
+[1493632533994] left click on word 0.0.3 ('pesce')
+[1493632533994] add 0.0.3 to 0[0,1,2:]
+[1493632538378] left click on word 0.1.38 ('name(juan_pablo_Úbeda_pesce)')
+[1493632538378] add 0.1.38 to 0[0,1,2,3:]
+[1493632547785] left click on word 0.1.13 ('name(ubeda,_juan_pablo)')
+[1493632547786] add 0.1.13 to 0[0,1,2,3:38]
+[1493632554858] left click on word 0.1.25 ('fullname(juan_pablo_Úbeda_pesce)')
+[1493632554858] add 0.1.25 to 0[0,1,2,3:38,13]
+[1493632563738] right click on word 0.1.38 ('name(juan_pablo_Úbeda_pesce)')
+[1493632564466] right click on word 0.1.38 ('name(juan_pablo_Úbeda_pesce)')
+[1493632565787] label 0[0,1,2,3:38,13,25] as sure
+[1493632573242] left click on word 0.0.5 ('born')
+[1493632573242] new alignment group
+[1493632573242] add 0.0.5 to 0[:]
+[1493632574378] left click on word 0.0.6 ('july')
+[1493632574378] add 0.0.6 to 0[5:]
+[1493632575066] left click on word 0.0.7 ('31')
+[1493632575066] add 0.0.7 to 0[5,6:]
+[1493632575594] left click on word 0.0.8 (',')
+[1493632575594] add 0.0.8 to 0[5,6,7:]
+[1493632576186] left click on word 0.0.9 ('1980')
+[1493632576186] add 0.0.9 to 0[5,6,7,8:]
+[1493632578698] left click on word 0.1.7 ('birth_date(1980-07-31)')
+[1493632578698] add 0.1.7 to 0[5,6,7,8,9:]
+[1493632579186] right click on word 0.1.7 ('birth_date(1980-07-31)')
+[1493632580162] right click on word 0.1.7 ('birth_date(1980-07-31)')
+[1493632581698] label 0[5,6,7,8,9:7] as sure
+[1493632595546] left click on word 0.0.11 ('santiago')
+[1493632595546] new alignment group
+[1493632595547] add 0.0.11 to 0[:]
+[1493632596914] left click on word 0.0.12 ('de')
+[1493632596914] add 0.0.12 to 0[11:]
+[1493632597970] left click on word 0.0.13 ('chile')
+[1493632597970] add 0.0.13 to 0[11,12:]
+[1493632600466] left click on word 0.1.33 ('birth_place(santiago[settlement])')
+[1493632600466] add 0.1.33 to 0[11,12,13:]
+[1493632635987] left click on word 0.1.43 ('birth_place(chile[location])')
+[1493632635987] add 0.1.43 to 0[11,12,13:33]
+[1493632637115] right click on word 0.1.43 ('birth_place(chile[location])')
+[1493632638235] right click on word 0.1.43 ('birth_place(chile[location])')
+[1493632644979] left click on word 0.1.43 ('birth_place(chile[location])')
+[1493632644979] edit 0[11,12,13:33,43]
+[1493632647091] right click on word 0.0.14 (',')
+[1493632647091] add 0.0.14 to 0[11,12,13:33,43]
+[1493632648747] left click on word 0.0.13 ('chile')
+[1493632648747] edit 0[11,12,13,14:33,43]
+[1493632649659] right click on word 0.0.15 ('chile')
+[1493632649659] add 0.0.15 to 0[11,12,13,14:33,43]
+[1493632651024] right click on word 0.0.15 ('chile')
+[1493632659100] left click on word 0.0.15 ('chile')
+[1493632659100] edit 0[11,12,13,14,15:33,43]
+[1493632661043] right click on word 0.0.15 ('chile')
+[1493632661963] right click on word 0.0.15 ('chile')
+[1493632662868] del 0.0.15 from 0[11,12,13,14,15:33,43]
+[1493632664083] right click on word 0.0.14 (',')
+[1493632666172] del 0.0.14 from 0[11,12,13,14:33,43]
+[1493632671779] left click on word 0.1.33 ('birth_place(santiago[settlement])')
+[1493632671780] edit 0[11,12,13:33,43]
+[1493632690652] right click on word 0.1.43 ('birth_place(chile[location])')
+[1493632692060] right click on word 0.1.43 ('birth_place(chile[location])')
+[1493632693332] del 0.1.43 from 0[11,12,13:33,43]
+[1493632695604] left click on word 0.0.11 ('santiago')
+[1493632695604] edit 0[11,12,13:33]
+[1493632696372] right click on word 0.0.11 ('santiago')
+[1493632698028] right click on word 0.1.33 ('birth_place(santiago[settlement])')
+[1493632699580] label 0[11,12,13:33] as sure
+[1493632700932] left click on word 0.0.15 ('chile')
+[1493632700932] new alignment group
+[1493632700932] add 0.0.15 to 0[:]
+[1493632703100] right click on word 0.1.43 ('birth_place(chile[location])')
+[1493632703100] add 0.1.43 to 0[15:]
+[1493632703796] right click on word 0.1.43 ('birth_place(chile[location])')
+[1493632704892] label 0[15:43] as sure
+[1493634462210] left click on word 1.0.0 ('Úbeda')
+[1493634462210] new alignment group
+[1493634462210] add 1.0.0 to 1[:]
+[1493634462801] left click on word 1.0.1 ('played')
+[1493634462802] add 1.0.1 to 1[0:]
+[1493634463578] left click on word 1.0.2 ('for')
+[1493634463578] add 1.0.2 to 1[0,1:]
+[1493634464097] left click on word 1.0.3 ('chile')
+[1493634464098] add 1.0.3 to 1[0,1,2:]
+[1493634479746] left click on word 1.0.4 ('at')
+[1493634479746] add 1.0.4 to 1[0,1,2,3:]
+[1493634480747] left click on word 1.0.5 ('the')
+[1493634480747] add 1.0.5 to 1[0,1,2,3,4:]
+[1493634481202] left click on word 1.0.6 ('1997')
+[1493634481202] add 1.0.6 to 1[0,1,2,3,4,5:]
+[1493634483075] left click on word 1.0.6 ('1997')
+[1493634483076] del 1.0.6 from 1[0,1,2,3,4,5,6:]
+[1493634483842] left click on word 1.0.5 ('the')
+[1493634483842] del 1.0.5 from 1[0,1,2,3,4,5:]
+[1493634488858] left click on word 1.0.8 ('u-17')
+[1493634488858] add 1.0.8 to 1[0,1,2,3,4:]
+[1493634490570] left click on word 1.0.7 ('fifa')
+[1493634490571] add 1.0.7 to 1[0,1,2,3,4,8:]
+[1493634500266] left click on word 1.1.5 ('nationalteam(chile_national_under-17_football_team[soccer_club])')
+[1493634500266] add 1.1.5 to 1[0,1,2,3,4,8,7:]
+[1493634501074] right click on word 1.1.5 ('nationalteam(chile_national_under-17_football_team[soccer_club])')
+[1493634502042] right click on word 1.1.5 ('nationalteam(chile_national_under-17_football_team[soccer_club])')
+[1493634503426] label 1[0,1,2,3,4,8,7:5] as sure
+[1493634511250] left click on word 1.0.6 ('1997')
+[1493634511250] new alignment group
+[1493634511250] add 1.0.6 to 1[:]
+[1493634516042] right click on word 1.1.10 ('nationalyears(1997)')
+[1493634516042] add 1.1.10 to 1[6:]
+[1493634517282] right click on word 1.1.10 ('nationalyears(1997)')
+[1493634519154] label 1[6:10] as possible
+[1494340189639] NEW SESSION
+[1494340254058] left click on word 0.0.20 ('chilean')
+[1494340254058] new alignment group
+[1494340254058] add 0.0.20 to 0[:]
+[1494340254906] left click on word 0.0.21 ('footballer')
+[1494340254906] add 0.0.21 to 0[20:]
+[1494340257106] right click on word 0.1.17 ('short_description(chilean_footballer)')
+[1494340257106] add 0.1.17 to 0[20,21:]
+[1494340258162] right click on word 0.1.17 ('short_description(chilean_footballer)')
+[1494340259610] label 0[20,21:17] as sure

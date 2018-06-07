@@ -1,0 +1,104 @@
+[1492710235966] NEW SESSION
+[1492710456263] left click on word 1.0.0 ('daniel')
+[1492710456264] new alignment group
+[1492710456264] add 1.0.0 to 1[:]
+[1492710457255] left click on word 1.0.1 ('phillip')
+[1492710457255] add 1.0.1 to 1[0:]
+[1492710458417] left click on word 1.0.2 ('wood')
+[1492710458417] add 1.0.2 to 1[0,1:]
+[1492710470439] right click on word 1.1.4 ('fullname(daniel_phillip_wood)')
+[1492710470439] add 1.1.4 to 1[0,1,2:]
+[1492710474038] right click on word 1.1.6 ('name(dan_wood)')
+[1492710478175] left click on word 1.1.4 ('fullname(daniel_phillip_wood)')
+[1492710478175] edit 1[0,1,2:4]
+[1492710480013] right click on word 1.1.6 ('name(dan_wood)')
+[1492710480013] add 1.1.6 to 1[0,1,2:4]
+[1492710487591] right click on word 1.1.13 ('name(wood,_dan)')
+[1492710491311] left click on word 1.1.6 ('name(dan_wood)')
+[1492710491311] edit 1[0,1,2:4,6]
+[1492710492719] right click on word 1.1.13 ('name(wood,_dan)')
+[1492710492719] add 1.1.13 to 1[0,1,2:4,6]
+[1492710498094] left click on word 1.1.13 ('name(wood,_dan)')
+[1492710498094] edit 1[0,1,2:4,6,13]
+[1492710521702] right click on word 1.1.16 ('alternative_names(wood,_daniel_phillip)')
+[1492710521702] add 1.1.16 to 1[0,1,2:4,6,13]
+[1492710534214] right click on word 1.1.16 ('alternative_names(wood,_daniel_phillip)')
+[1492710536895] label 1[0,1,2:4,6,13,16] as sure
+[1492710640125] left click on word 1.0.4 ('born')
+[1492710640125] new alignment group
+[1492710640125] add 1.0.4 to 1[:]
+[1492710643101] left click on word 1.0.5 ('may')
+[1492710643101] add 1.0.5 to 1[4:]
+[1492710644342] left click on word 1.0.6 ('21')
+[1492710644342] add 1.0.6 to 1[4,5:]
+[1492710645454] left click on word 1.0.7 (',')
+[1492710645454] add 1.0.7 to 1[4,5,6:]
+[1492710646062] left click on word 1.0.8 ('1946')
+[1492710646062] add 1.0.8 to 1[4,5,6,7:]
+[1492710651965] right click on word 1.1.17 ('birth_date(1946-05-21)')
+[1492710651965] add 1.1.17 to 1[4,5,6,7,8:]
+[1492710652885] right click on word 1.1.17 ('birth_date(1946-05-21)')
+[1492710654510] label 1[4,5,6,7,8:17] as sure
+[1492710977067] left click on word 1.0.10 ('is')
+[1492710977067] new alignment group
+[1492710977067] add 1.0.10 to 1[:]
+[1492710979523] left click on word 1.0.11 ('a')
+[1492710979523] add 1.0.11 to 1[10:]
+[1492710981379] left click on word 1.0.16 ('soccer')
+[1492710981379] add 1.0.16 to 1[10,11:]
+[1492710982099] left click on word 1.0.17 ('coach')
+[1492710982099] add 1.0.17 to 1[10,11,16:]
+[1492710984731] right click on word 1.1.15 ('short_description(soccer_coach,_professional_golfer)')
+[1492710984732] add 1.1.15 to 1[10,11,16,17:]
+[1492710985755] right click on word 1.1.15 ('short_description(soccer_coach,_professional_golfer)')
+[1492710987587] label 1[10,11,16,17:15] as possible
+[1492711156490] left click on word 2.0.1 ('was')
+[1492711156490] new alignment group
+[1492711156490] add 2.0.1 to 2[:]
+[1492711157578] left click on word 2.0.3 ('a')
+[1492711157578] add 2.0.3 to 2[1:]
+[1492711158490] left click on word 2.0.4 ('professional')
+[1492711158490] add 2.0.4 to 2[1,3:]
+[1492711159673] left click on word 2.0.5 ('golfer')
+[1492711159673] add 2.0.5 to 2[1,3,4:]
+[1492711165458] right click on word 2.1.15 ('short_description(soccer_coach,_professional_golfer)')
+[1492711165458] add 2.1.15 to 2[1,3,4,5:]
+[1492711166138] right click on word 2.1.15 ('short_description(soccer_coach,_professional_golfer)')
+[1492711168338] label 2[1,3,4,5:15] as possible
+[1492711266369] right click on word 1.0.17 ('coach')
+[1492711276073] label 1[10,11,16,17:15] as sure
+[1492711279993] right click on word 2.0.4 ('professional')
+[1492711281569] label 2[1,3,4,5:15] as sure
+[1493819608968] NEW SESSION
+[1493819798701] left click on word 1.0.16 ('soccer')
+[1493819798701] edit 1[10,11,16,17:15]
+[1493819799893] right click on word 1.0.10 ('is')
+[1493819802565] right click on word 1.0.10 ('is')
+[1493819861741] left click on word 1.0.10 ('is')
+[1493819861741] edit 1[10,11,16,17:15]
+[1493819862296] right click on word 1.0.10 ('is')
+[1493819864326] right click on word 1.0.10 ('is')
+[1493819865646] del 1.0.10 from 1[10,11,16,17:15]
+[1493819866341] right click on word 1.0.11 ('a')
+[1493819867070] del 1.0.11 from 1[11,16,17:15]
+[1493819911158] right click on word 2.0.1 ('was')
+[1493819920542] right click on word 2.0.2 ('also')
+[1493819923390] left click on word 2.0.4 ('professional')
+[1493819923390] edit 2[1,3,4,5:15]
+[1493819925550] right click on word 2.0.2 ('also')
+[1493819925550] add 2.0.2 to 2[1,3,4,5:15]
+[1496071027573] NEW SESSION
+[1496071046643] left click on word 2.0.0 ('he')
+[1496071046644] new alignment group
+[1496071046644] add 2.0.0 to 2[:]
+[1496071050859] left click on word 2.1.4 ('fullname(daniel_phillip_wood)')
+[1496071050859] add 2.1.4 to 2[0:]
+[1496071053074] left click on word 2.1.6 ('name(dan_wood)')
+[1496071053075] add 2.1.6 to 2[0:4]
+[1496071056739] left click on word 2.1.13 ('name(wood,_dan)')
+[1496071056739] add 2.1.13 to 2[0:4,6]
+[1496071060059] left click on word 2.1.16 ('alternative_names(wood,_daniel_phillip)')
+[1496071060059] add 2.1.16 to 2[0:4,6,13]
+[1496071060763] right click on word 2.1.16 ('alternative_names(wood,_daniel_phillip)')
+[1496071061403] right click on word 2.1.16 ('alternative_names(wood,_daniel_phillip)')
+[1496071062651] label 2[0:4,6,13,16] as sure

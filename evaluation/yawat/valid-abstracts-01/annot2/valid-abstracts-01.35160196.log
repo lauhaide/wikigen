@@ -1,0 +1,103 @@
+[1493721219558] NEW SESSION
+[1493721234161] left click on word 0.0.0 ('jacob')
+[1493721234162] new alignment group
+[1493721234162] add 0.0.0 to 0[:]
+[1493721234761] left click on word 0.0.1 ('adaktusson')
+[1493721234761] add 0.0.1 to 0[0:]
+[1493721236481] left click on word 0.1.3 ('name(adaktusson,_jacob)')
+[1493721236481] add 0.1.3 to 0[0,1:]
+[1493721237353] right click on word 0.1.3 ('name(adaktusson,_jacob)')
+[1493721237713] right click on word 0.1.3 ('name(adaktusson,_jacob)')
+[1493721239737] label 0[0,1:3] as possible
+[1493721240985] left click on word 0.0.3 ('born')
+[1493721240986] new alignment group
+[1493721240986] add 0.0.3 to 0[:]
+[1493721241609] left click on word 0.0.4 ('31')
+[1493721241609] add 0.0.4 to 0[3:]
+[1493721242562] left click on word 0.0.5 ('august')
+[1493721242562] add 0.0.5 to 0[3,4:]
+[1493721243250] left click on word 0.0.6 ('1980')
+[1493721243250] add 0.0.6 to 0[3,4,5:]
+[1493721244657] left click on word 0.1.6 ('birth_date(1980-08-31)')
+[1493721244657] add 0.1.6 to 0[3,4,5,6:]
+[1493721245337] right click on word 0.1.6 ('birth_date(1980-08-31)')
+[1493721245738] right click on word 0.1.6 ('birth_date(1980-08-31)')
+[1493721247305] label 0[3,4,5,6:6] as sure
+[1493721253697] left click on word 0.0.8 ('is')
+[1493721253698] new alignment group
+[1493721253698] add 0.0.8 to 0[:]
+[1493721254665] left click on word 0.0.9 ('a')
+[1493721254665] add 0.0.9 to 0[8:]
+[1493721255889] left click on word 0.0.11 ('tennis')
+[1493721255890] add 0.0.11 to 0[8,9:]
+[1493721256337] left click on word 0.0.12 ('player')
+[1493721256337] add 0.0.12 to 0[8,9,11:]
+[1493721256913] left click on word 0.1.2 ('short_description(tennis_player)')
+[1493721256913] add 0.1.2 to 0[8,9,11,12:]
+[1493721257377] right click on word 0.1.2 ('short_description(tennis_player)')
+[1493721257745] right click on word 0.1.2 ('short_description(tennis_player)')
+[1493721259137] label 0[8,9,11,12:2] as sure
+[1493721262201] left click on word 0.0.13 ('from')
+[1493721262201] new alignment group
+[1493721262202] add 0.0.13 to 0[:]
+[1493721262945] left click on word 0.0.14 ('sweden')
+[1493721262946] add 0.0.14 to 0[13:]
+[1493721263633] left click on word 0.1.1 ('birth_place(stockholm,_sweden)')
+[1493721263633] add 0.1.1 to 0[13,14:]
+[1493721264242] right click on word 0.1.1 ('birth_place(stockholm,_sweden)')
+[1493721264666] right click on word 0.1.1 ('birth_place(stockholm,_sweden)')
+[1493721266137] label 0[13,14:1] as sure
+[1493721269345] right click on word 0.1.3 ('name(adaktusson,_jacob)')
+[1493721269698] del 0.1.3 from 0[0,1:3]
+[1493721270201] right click on word 0.1.3 ('name(adaktusson,_jacob)')
+[1493721272313] left click on word 0.1.3 ('name(adaktusson,_jacob)')
+[1493721272313] new alignment group
+[1493721272313] add 0.1.3 to 0[:]
+[1493721273977] left click on word 0.0.0 ('jacob')
+[1493721273978] del 0.0.0 from 0[0,1:]
+[1493721273978] add 0.0.0 to 0[:3]
+[1493721274465] left click on word 0.0.1 ('adaktusson')
+[1493721274466] del 0.0.1 from 0[1:]
+[1493721274466] add 0.0.1 to 0[0:3]
+[1493721275666] right click on word 0.1.3 ('name(adaktusson,_jacob)')
+[1493721276042] right click on word 0.1.3 ('name(adaktusson,_jacob)')
+[1493721277313] label 0[0,1:3] as sure
+[1496053670291] NEW SESSION
+[1496053687817] left click on word 1.0.4 ('adaktusson')
+[1496053687817] new alignment group
+[1496053687817] add 1.0.4 to 1[:]
+[1496053689536] left click on word 1.1.3 ('name(adaktusson,_jacob)')
+[1496053689536] add 1.1.3 to 1[4:]
+[1496053690208] right click on word 1.1.3 ('name(adaktusson,_jacob)')
+[1496053690512] right click on word 1.1.3 ('name(adaktusson,_jacob)')
+[1496053691913] label 1[4:3] as sure
+[1496053701984] left click on word 2.0.0 ('he')
+[1496053701985] new alignment group
+[1496053701985] add 2.0.0 to 2[:]
+[1496053704408] left click on word 2.1.3 ('name(adaktusson,_jacob)')
+[1496053704408] add 2.1.3 to 2[0:]
+[1496053704872] right click on word 2.1.3 ('name(adaktusson,_jacob)')
+[1496053705176] right click on word 2.1.3 ('name(adaktusson,_jacob)')
+[1496053706648] label 2[0:3] as sure
+[1496053711073] left click on word 3.0.0 ('adaktusson')
+[1496053711073] new alignment group
+[1496053711073] add 3.0.0 to 3[:]
+[1496053712600] right click on word 3.1.3 ('name(adaktusson,_jacob)')
+[1496053712600] add 3.1.3 to 3[0:]
+[1496053713160] right click on word 3.1.3 ('name(adaktusson,_jacob)')
+[1496053714456] label 3[0:3] as sure
+[1496053732368] left click on word 5.0.0 ('he')
+[1496053732368] new alignment group
+[1496053732368] add 5.0.0 to 5[:]
+[1496053733640] right click on word 5.1.3 ('name(adaktusson,_jacob)')
+[1496053733640] add 5.1.3 to 5[0:]
+[1496053734208] right click on word 5.1.3 ('name(adaktusson,_jacob)')
+[1496053736104] label 5[0:3] as sure
+[1496053744256] left click on word 6.0.0 ('he')
+[1496053744256] new alignment group
+[1496053744256] add 6.0.0 to 6[:]
+[1496053747069] left click on word 6.1.3 ('name(adaktusson,_jacob)')
+[1496053747069] add 6.1.3 to 6[0:]
+[1496053747656] right click on word 6.1.3 ('name(adaktusson,_jacob)')
+[1496053747944] right click on word 6.1.3 ('name(adaktusson,_jacob)')
+[1496053749736] label 6[0:3] as sure
