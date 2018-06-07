@@ -53,6 +53,7 @@ train.lua -doeval -use_cuda \
 **-distractorSet** provides the set of 15 random distractors for each evaluated item. Note that if **-genNegValid** is passed as argument (i.e. is true), a new set of distractors will be generated and saved under the name given by argument **-distractorSet**.
 
 The manual annotations for the word alignment measures where obtained with the Yawat tool [(Ulrich, 2008)](https://pdfs.semanticscholar.org/e747/f6af80421a278c9c6aeccb8abdf26445cb7f.pdf). If you want to look at the interface for annotations you can go here [Yawat Content Alignment](http://homepages.inf.ed.ac.uk/cgi/lperez/yawat-dta/cgi/yawat.cgi) (user=annotator1 pass=demo) .
+The annotations themselves that we use can be found in *evaluation/yawat/*
 
 This evaluation will output (files will be saved in the folder trained/results/TRAINEDMODEL/):   
 - the ranking @15 score 
