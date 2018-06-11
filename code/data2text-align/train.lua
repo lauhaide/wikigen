@@ -55,7 +55,7 @@ cmd:option('-preembed_datavoc', '', [[Use pre-trained vectors for data vocabular
 cmd:option('-preembed_textvoc', '', [[Use pre-trained vectors for text vocabulary dict.]])
 cmd:option('-weights_file', '', [[Path to model weights (*.t7 file)]])
 cmd:option('-train_from', '', [[If training from a checkpoint then this is the path to the pretrained model.]])
-cmd:option('-linDepData', '../../trained/input/tmp-lingDepsTrain_II.hdf5', [[Dataset for multitask training.]])
+cmd:option('-linDepData', '', [[Dataset for multitask training.]])
 
 
 cmd:text("")
