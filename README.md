@@ -18,7 +18,7 @@ The pre-processed dataset to train and evaluate the generation models can be dow
 
 ### Content Alignment Model
 
-The pre-trained model can be downloaded from [here](https://drive.google.com/open?id=1jZcBloHi_CShyFSapYHauqVz8HT84vPT).
+The pre-trained model can be downloaded from [here](https://drive.google.com/open?id=1jZcBloHi_CShyFSapYHauqVz8HT84vPT).  
 The output by the pre-trained model can be found [here](https://drive.google.com/open?id=1IUDs17e50AEhKKqkVcXVUJNg7QqyQkRh).
 
 To train the Content Alignment model:
@@ -92,7 +92,7 @@ This script will generate two files, one with the alignment labels and the other
 
 The base code for the encoder-decoder generation models is from [(Wiseman et al, 2017)](https://arxiv.org/abs/1707.08052) (OpenNMT Torch7) and this github contains a copy of it. The base code for the Reinforcement Learning (RL) model is from [(Zhang and Lapata)](http://aclweb.org/anthology/D/D17/D17-1062.pdf). For this you will need to copy/clone from [this GitHub](https://github.com/XingxingZhang/dress) to be able to include some files under *dress/dress* directory.
 
-The pre-trained generation models can be downloaded from [here](https://drive.google.com/open?id=1z7gG97S5DpY_NX7dLB9sl5R7jMHu1Lq-).
+The pre-trained generation models can be downloaded from [here](https://drive.google.com/open?id=1z7gG97S5DpY_NX7dLB9sl5R7jMHu1Lq-).  
 The output by the pre-trained models can be found [here]().
 
 #### Base Encoder-Decoder Generator

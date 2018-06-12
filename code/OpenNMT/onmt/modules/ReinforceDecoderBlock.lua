@@ -298,7 +298,7 @@ function ReinforceDecoderBlock:backward(batch, allOutputs, criterion, ctxLen)
                                     batch:getTargetAlnLabels(batch.seqLevelBlock),
                                     batch:getTargetOutput(), batch:getTargetAlnLabels(),
                                     y_rf, self.reward, self.reward_mask, self.sampleStart)
-    elseif self.args.warType == 8 or self.args.warType == 9 then
+    elseif self.args.warType == 8 then
         _, _, ori_sents = self.wa_scorer:getDynBatch(batch:getTargetOutput(batch.seqLevelBlock),
                                     batch:getTargetAlnLabels(batch.seqLevelBlock),
                                     batch:getTargetOutput(), batch:getTargetAlnLabels(),

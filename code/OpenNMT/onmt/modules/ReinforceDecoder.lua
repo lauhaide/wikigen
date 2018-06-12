@@ -207,9 +207,6 @@ self.args.lmWeight = 1
   elseif warType == 8 then
     print(" * F-measure with (LOCAL Bleu1, GLOBAL recall) ")
     self.wa_scorer = WAScorerCombinedFpLrG(tgtdict, self.args.batchSize)
-      elseif warType == 9 then
-    print(" * F-measure with (LOCAL Bleu1, GLOBAL recall) with selective/constrained RL.")
-    self.wa_scorer = WAScorerCombinedFpLrGSelective(tgtdict, self.args.batchSize)
   else
     print("Alignment reward function underspecified.")
     os.exit()
