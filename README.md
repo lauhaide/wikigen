@@ -93,7 +93,7 @@ This script will generate two files, one with the alignment labels and the other
 The base code for the encoder-decoder generation models is from [(Wiseman et al, 2017)](https://arxiv.org/abs/1707.08052) (OpenNMT Torch7) and this github contains a copy of it. The base code for the Reinforcement Learning (RL) model is from [(Zhang and Lapata)](http://aclweb.org/anthology/D/D17/D17-1062.pdf). For this you will need to copy/clone from [this GitHub](https://github.com/XingxingZhang/dress) to be able to include some files under *dress/dress* directory.
 
 The pre-trained generation models can be downloaded from [here](https://drive.google.com/open?id=1z7gG97S5DpY_NX7dLB9sl5R7jMHu1Lq-).  
-The output by the pre-trained models can be found [here]().
+The output by the pre-trained models can be found [here](https://drive.google.com/open?id=1TjlOIk16OvjOrBKZ-4dftJR5eYrSi1e5).
 
 #### Base Encoder-Decoder Generator
 
